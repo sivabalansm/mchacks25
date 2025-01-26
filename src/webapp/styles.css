@@ -1,0 +1,43 @@
+:root {
+  --primary-purple: #8625a8;
+  --secondary-purple: #344054;
+  --primary-light: #d7e1ff;
+  --dark: #101828;
+}
+
+ul.navbar {
+	list-style-type: none;
+	border: 0px;
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	background-color: white;
+	border-radius: 20px;
+}
+div.products {
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+}
+div.product {
+	border: 5px;
+	padding: 40px;
+	margin: 10px;
+	text-align: center;
+}
+
+#manual-add {
+	position: absolute;
+	bottom: 10px;
+
+}
+body {
+	position: relative;
+	top: 50px;
+	background-image: url('https://cdn.prod.website-files.com/668163f9ba78104108899ca7/668163f9ba78104108899d71_trio-gradient.webp');
+
+}
+
+html, body {
+	height: 80%;
+}
