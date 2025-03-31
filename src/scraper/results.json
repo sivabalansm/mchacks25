@@ -2,2478 +2,2643 @@
   {
     "clothing_items": [
       {
+        "name": "AIRism Soft Mini Bra Dress",
+        "price": 59.9,
+        "description": "Built in bra cups provide support, ideal for sports and everyday wear."
+      },
+      {
         "name": "This is my Best \"T\": Mini Short Sleeve T-Shirt",
-        "price": "$19.90",
+        "price": 19.9,
         "description": "MVP of my wardrobe."
       },
       {
-        "name": "Extra Stretch Dress",
-        "price": "$49.90",
-        "description": "This versatile style combines a dressy design with sporty nylon fabric."
+        "name": "Jersey Balloon Dress",
+        "price": 49.9,
+        "description": "A versatile dress with a distinctive silhouette."
       },
       {
         "name": "UNIQLO and JW Anderson Straight Jeans",
-        "price": "$59.90",
+        "price": 59.9,
         "description": ""
       },
       {
-        "name": "Spring Sale: Save on Your Favorite Looks UNIQLO : C Trench Coat",
-        "price": "$129.90",
-        "description": "Was $149.90"
+        "name": "Windproof Stand Blouson",
+        "price": 69.9,
+        "description": "Designed for function and fashion. Perfect for change in weather."
       },
       {
         "name": "AIRism Cotton Oversized Half-Sleeve T-shirt",
-        "price": "$24.90",
+        "price": 24.9,
         "description": "Our best selling basic T-shirt."
       },
       {
         "name": "Pocketable UV Protection Parka",
-        "price": "$59.90",
+        "price": 59.9,
         "description": "So light you'll take it anywhere and everywhere."
       },
       {
+        "name": "UNIQLO : C Sweat Wide Shorts",
+        "price": 39.9,
+        "description": "Pair our viral shorts with our Oversized Pullover Hoodie for a matching fit."
+      },
+      {
         "name": "Zip Up Blouson",
-        "price": "$79.90",
+        "price": 79.9,
         "description": "Vintage workwear-inspired design, reimagined with a modern, relaxed fit."
       },
       {
-        "name": "UNIQLO : C Sweat Wide Pants",
-        "price": "$49.90",
-        "description": ""
+        "name": "Girls AIRism Soft Biker Shorts",
+        "price": 14.9,
+        "description": "Soft extra stretch fabric. Perfect for sports and casual wear."
       },
       {
         "name": "AIRism Cotton Crew T-Shirts",
-        "price": "$14.90",
+        "price": 14.9,
         "description": "With the look of cotton, AIRism keeps you fresh and comfortable."
       },
       {
-        "name": "DRY Sweatpants",
-        "price": "$34.90",
-        "description": "Extra Stretch fabric provides incredible comfort and easy movement."
-      },
-      {
-        "name": "PUFFTECH Washable Parka",
-        "price": "$39.90",
-        "description": "Machine-washable for easy care."
-      },
-      {
-        "name": "Socks (3 Pair)",
-        "price": "$12.90",
-        "description": "Seamless toe design for comfort in a variety of cute patterns."
-      },
-      {
-        "name": "Disney Sweatshirt",
-        "price": "$12.90",
-        "description": "A collection that celebrates friendship through Disney’s beloved characters."
-      },
-      {
-        "name": "Spring Sale: Save on Your Favorite Looks UNIQLO : C Trench Coat",
-        "price": "$129.90",
-        "description": ""
-      },
-      {
         "name": "AIRism Soft Leggings",
-        "price": "$19.90",
+        "price": 19.9,
         "description": "Smooth Leggings with a comfy fit."
       },
       {
+        "name": "Innerwear Collection",
+        "price": 14.9,
+        "description": "New season calls for a drawer refresh. Kids innerwear starting from."
+      },
+      {
+        "name": "PUFFTECH Washable Parka",
+        "price": 39.9,
+        "description": "Machine-washable for easy care."
+      },
+      {
+        "name": "Dresses",
+        "price": 29.9,
+        "description": "Light comfy cotton blend with a crisp feel."
+      },
+      {
         "name": "Relaxed Fit Cropped Leggings",
-        "price": "$9.90",
+        "price": 9.9,
         "description": "Relaxed silhouette for with a roomy waist for a comfort fit."
       },
       {
+        "name": "Socks (3 Pair)",
+        "price": 12.9,
+        "description": "Seamless toe design for comfort in a variety of cute patterns."
+      },
+      {
         "name": "Picture Book Collection",
-        "price": "",
+        "price": 0,
         "description": "Miffy and characters from these popular picture books in cute pajamas and t-shirts."
       },
       {
-        "name": "Just Launched! mofusand UT",
-        "price": "",
-        "description": "New graphic tees with \"Teddy Meow\", a fluffy cat wearing teddy bear."
+        "name": "Dr. Martens 939 Ben Brown Boots",
+        "price": 145,
+        "description": "Shop Dr. Martens 939 Ben Brown Boots at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
       },
       {
-        "name": "BDG Kenny Flare Leg Jean",
-        "price": "$69.00",
-        "description": "Shop BDG Kenny Flare Leg Jean at Urban Outfitters today. Discover more selections just like this online or in-store.  Shop your favorite brands and sign up for UO Rewards to receive 10% off your next purchase!"
+        "name": "Dr. Martens Brown Zebzag 4-Eye Boots",
+        "price": 160,
+        "description": "Dr. Martens Brown Zebzag 4-Eye Boots."
       },
       {
-        "name": "BDG Slacker Relaxed Flare Jean",
-        "price": "$79.00",
-        "description": "Shop BDG Slacker Relaxed Flare Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "Dr. Martens Brown Buzz 5-Eye Shoes",
+        "price": 130,
+        "description": "Dr. Martens Brown Buzz 5-Eye Shoes."
       },
       {
-        "name": "BDG Nitro Lightning Baggy Fit Jean",
-        "price": "$79.00",
-        "description": "Shop BDG Nitro Lightning Baggy Fit Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "UO Ryder Leather Ankle Boots",
+        "price": 78,
+        "description": "UO Ryder Leather Ankle Boots."
       },
       {
-        "name": "BDG Cone Relaxed Fit Jean",
-        "price": "$89.00",
-        "description": "Shop BDG Cone Relaxed Fit Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "Carhartt Chase Socks",
+        "price": 15,
+        "description": "Carhartt Chase Socks."
       },
       {
-        "name": "Levi’s® 567 Relaxed Flare Jean",
-        "price": "$99.00",
-        "description": "Shop Levi’s® 567 Relaxed Flare Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "Dr. Martens Tan Anistone Lo Suede Boots",
+        "price": 180,
+        "description": "Dr. Martens Tan Anistone Lo Suede Boots."
       },
       {
-        "name": "Levi’s® 550 Relaxed Fit Jean",
-        "price": "$70.00",
-        "description": "Shop Levi’s® 550 Relaxed Fit Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "Caterpillar Honey Reset Colorado 2.0 Boots",
+        "price": 120,
+        "description": "Caterpillar Honey Reset Colorado 2.0 Boots."
       },
       {
-        "name": "BDG Nitro Bleached Out Baggy Fit Jean",
-        "price": "$79.00",
-        "description": "Shop BDG Nitro Bleached Out Baggy Fit Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "Caterpillar Dark Beige Colorado 2.0 Boots",
+        "price": 120,
+        "description": "Caterpillar Dark Beige Colorado 2.0 Boots."
       },
       {
-        "name": "BDG Slim Fit Flared Jean",
-        "price": "$59.00",
-        "description": "Shop BDG Slim Fit Flared Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "Dr. Martens Brown Orleans Leather Sinclair Boots",
+        "price": 180,
+        "description": "Dr. Martens Brown Orleans Leather Sinclair Boots."
       },
       {
-        "name": "Levi's® Skate Super Stack Jean",
-        "price": "$110.00",
-        "description": "Shop Levi's® Skate Super Stack Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "Timberland Wheat Nubuck Field Boots",
+        "price": 160,
+        "description": "Timberland Wheat Nubuck Field Boots."
       },
       {
-        "name": "Diesel D-Buck Distressed Bootcut Jean",
-        "price": "$375.00",
-        "description": "Shop Diesel D-Buck Distressed Bootcut Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "Timberland Dark Brown Field Boots",
+        "price": 160,
+        "description": "Timberland Dark Brown Field Boots."
       },
       {
-        "name": "Diesel D-Axford-S Jean",
-        "price": "$495.00",
-        "description": "Shop Diesel D-Axford-S Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "Dr. Martens Black 1460 Vonda Flower Boots",
+        "price": 180,
+        "description": "Dr. Martens Black 1460 Vonda Flower Boots."
       },
       {
-        "name": "BDG Baggy Skate Fit Denim Jean",
-        "price": "$49.00",
-        "description": "Shop BDG Baggy Skate Fit Denim Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "Hunter Green Play Short Wellington Boots",
+        "price": 85,
+        "description": "Hunter Green Play Short Wellington Boots."
       },
       {
-        "name": "Mouty Patterned Baggy Fit Jean",
-        "price": "$440.00",
-        "description": "Shop Mouty Patterned Baggy Fit Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "UGG Chestnut Tamsan Weather Hybrid Shoes",
+        "price": 150,
+        "description": "UGG Chestnut Tamsan Weather Hybrid Shoes."
       },
       {
-        "name": "BDG Embroidered Centipede Baggy Skate Fit Jean",
-        "price": "$89.00",
-        "description": "Shop BDG Embroidered Centipede Baggy Skate Fit Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "Dr. Martens 8065 Mary Jane Smooth Leather Shoes",
+        "price": 140,
+        "description": "Dr. Martens 8065 Mary Jane Smooth Leather Shoes."
       },
       {
-        "name": "BDG Nitro Western Double Knee Baggy Jean",
-        "price": "$79.00",
-        "description": "Shop BDG Nitro Western Double Knee Baggy Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "Kleman Cognac Rade Mary Jane Shoes",
+        "price": 170,
+        "description": "Kleman Cognac Rade Mary Jane Shoes."
       },
       {
-        "name": "Wrangler Cowboy Cut Relaxed Fit Jean",
-        "price": "$59.00",
-        "description": "Shop Wrangler Cowboy Cut Relaxed Fit Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "UGG Chestnut Tasman Slippers",
+        "price": 100,
+        "description": "UGG Chestnut Tasman Slippers."
       },
       {
-        "name": "BDG Baggy Skate Fit Cargo Jean",
-        "price": "$89.00",
-        "description": "Shop BDG Baggy Skate Fit Cargo Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "Klemen Chocolate Alfan VV2 Shoes",
+        "price": 170,
+        "description": "Klemen Chocolate Alfan VV2 Shoes."
       },
       {
-        "name": "Katin George 64 Relaxed Fit Jean",
-        "price": "$89.00",
-        "description": "Shop Katin George 64 Relaxed Fit Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "Timberland Brown Stone Street 6\" Boots",
+        "price": 136,
+        "description": "Timberland Brown Stone Street 6\" Boots."
       },
       {
-        "name": "BDG Slacker Relaxed Flare Jean",
-        "price": "$89.00",
-        "description": "Shop BDG Slacker Relaxed Flare Jean at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "UGG Dusted Cocoa Tasman Slippers",
+        "price": 100,
+        "description": "UGG Dusted Cocoa Tasman Slippers."
       },
       {
-        "name": "BDG Lennon Straight Jean",
-        "price": "$69.00",
-        "description": "Shop BDG Lennon Straight Jean at Urban Outfitters today. Discover more selections just like this online or in-store.  Shop your favorite brands and sign up for UO Rewards to receive 10% off your next purchase!"
+        "name": "Miista Burgundy Malene Boots",
+        "price": 240,
+        "description": "Miista Burgundy Malene Boots."
       },
       {
-        "name": "Levi’s® Baggy Dad Jean",
-        "price": "$108.00",
-        "description": ""
+        "name": "Ecote Nora Jacquard Corset Top",
+        "price": 20,
+        "description": "Shop Ecote Nora Jacquard Corset Top at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
       },
       {
-        "name": "True Religion Carpenter Straight Leg Jean",
-        "price": "$119.00",
-        "description": ""
+        "name": "BDG Built Up Tank Top",
+        "price": 18,
+        "description": "Quick Shop"
       },
       {
-        "name": "BDG Kayla Printed Low-Rise Jean",
-        "price": "$79.00",
-        "description": ""
+        "name": "Kimchi Blue Indie Asymmetric Bandeau Top",
+        "price": 34,
+        "description": "Quick Shop"
       },
       {
-        "name": "BDG Kayla Low-Rise Jean",
-        "price": "$69.00",
-        "description": ""
+        "name": "Out From Under Flocked Dot Corset",
+        "price": 45,
+        "description": "Quick Shop"
       },
       {
-        "name": "BDG Corset Tie-Waist Boot Leg Jean",
-        "price": "$69.00",
-        "description": ""
+        "name": "Out From Under Je T'aime Leopard Soft Triangle Bra",
+        "price": 13,
+        "description": "Quick Shop"
       },
       {
-        "name": "Lioness Daydream Tie Up Jean",
-        "price": "$109.00",
-        "description": ""
+        "name": "Silence + Noise Rowan Plain Halterneck Top",
+        "price": 26,
+        "description": "Quick Shop"
       },
       {
-        "name": "BDG High-Waisted Cowboy Jean",
-        "price": "$59.00",
-        "description": ""
+        "name": "Kimchi Indie Asymmetric Bandeau Top",
+        "price": 34,
+        "description": "Quick Shop"
       },
       {
-        "name": "Tommy Jeans Mia Embellished Mid-Rise Relaxed Straight Jean",
-        "price": "$129.00",
-        "description": ""
+        "name": "iets frans... Leo V-Neck Cami",
+        "price": 12,
+        "description": "Quick Shop"
       },
       {
-        "name": "BDG Ozzy Loose Jean",
-        "price": "$49.00",
-        "description": ""
+        "name": "Kimchi Blue Madison Sleeveless Top",
+        "price": 32,
+        "description": "Quick Shop"
       },
       {
-        "name": "Levi's® Vintage Denim Overall",
-        "price": "$128.00",
-        "description": ""
+        "name": "Out From Under Hot Stuff Broderie Corset",
+        "price": 45,
+        "description": "Quick Shop"
       },
       {
-        "name": "GUESS ORIGINALS Carpenter Straight Leg Jean",
-        "price": "$129.00",
-        "description": ""
+        "name": "Kimchi Blue Nova Embellished Halter Top",
+        "price": 34,
+        "description": "Quick Shop"
       },
       {
-        "name": "BDG Kayla Embroidered Low-Rise Jean",
-        "price": "$119.00",
-        "description": ""
+        "name": "BDG Double Layer Cami Top",
+        "price": 18,
+        "description": "Quick Shop"
       },
       {
-        "name": "Dickies Herndon Denim Utility Pant",
-        "price": "$65.00",
-        "description": ""
+        "name": "Kimchi Blue Nia Babydoll Top",
+        "price": 29,
+        "description": "Quick Shop"
       },
       {
-        "name": "True Religion Big T Flap Straight Leg Overall",
-        "price": "$139.00",
-        "description": ""
+        "name": "Silence + Noise Moss Pinstripe Halterneck Corset Top",
+        "price": 44,
+        "description": "Quick Shop"
       },
       {
-        "name": "Lee Classic Rider™ Straight Leg Jean",
-        "price": "$59.00",
-        "description": ""
+        "name": "Kimchi Blue Dalilah Mesh Blouse",
+        "price": 29,
+        "description": "Quick Shop"
       },
       {
-        "name": "GUESS JEANS G80 Mid-Rise Straight Jean",
-        "price": "$109.00",
-        "description": ""
+        "name": "Ed Hardy UO Exclusive Camo Waffle T-Shirt",
+        "price": 33,
+        "description": "Quick Shop"
       },
       {
-        "name": "Levi's® Ribcage Full Length Jean",
-        "price": "$98.00",
-        "description": ""
+        "name": "Silence + Noise Hazel Hanky Hem Bandeau Top",
+        "price": 28,
+        "description": "Quick Shop"
       },
       {
-        "name": "Lee Loose Crop Button Fly Ankle Jean",
-        "price": "$108.00",
-        "description": ""
+        "name": "Von Dutch UO Exclusive Chocolate T-Shirt",
+        "price": 38,
+        "description": "Quick Shop"
       },
       {
-        "name": "Levi’s® Dad Jean",
-        "price": "$98.00",
-        "description": ""
+        "name": "Ed Hardy Dragon Print Tank Top",
+        "price": 35,
+        "description": "Shop Ed Hardy Dragon Print Tank Top at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
       },
       {
-        "name": "True Religion Ricki Vintage Carpenter Cargo Straight Jean",
-        "price": "$129.00",
-        "description": ""
+        "name": "VRG GRL Suki Denim Vest",
+        "price": 64,
+        "description": "Quick Shop"
       },
       {
-        "name": "BDG Relaxed Utility Jean",
-        "price": "$49.99",
-        "description": "Shop BDG Relaxed Utility Jean at Urban Outfitters today. Discover more selections just like this online or in-store.  Shop your favorite brands and sign up for UO Rewards to receive 10% off your next purchase!"
+        "name": "Silence + Noise Esme Denim Vest",
+        "price": 39,
+        "description": "Quick Shop"
       },
       {
-        "name": "BDG Striped Straight Fit Utility Work Jean",
-        "price": "$69.00",
-        "description": ""
+        "name": "UO Jade Seamless Cut Out Top",
+        "price": 20,
+        "description": "Quick Shop"
       },
       {
-        "name": "BDG Nitro Western Double Knee Baggy Jean",
-        "price": "$79.00",
-        "description": ""
+        "name": "BDG Jessie Ribbed Scoop Neck Vest",
+        "price": 12,
+        "description": "Quick Shop"
       },
       {
-        "name": "BDG 5-Pocket Straight Fit Jean",
-        "price": "$49.00",
-        "description": ""
+        "name": "UO Joyce Shirred Vest",
+        "price": 24,
+        "description": "Quick Shop"
       },
       {
-        "name": "Levi’s® 550 Relaxed Fit Jean",
-        "price": "$70.00",
-        "description": ""
+        "name": "UO Bec Ruched Front Cami",
+        "price": 16,
+        "description": "Quick Shop"
       },
       {
-        "name": "BDG Cropped Skate Fit Jean",
-        "price": "$69.00",
-        "description": ""
+        "name": "UO Kiara Vest",
+        "price": 26,
+        "description": "Quick Shop"
       },
       {
-        "name": "Levi's® 555 Relaxed Straight Jean",
-        "price": "$99.00",
-        "description": ""
+        "name": "Loom Cable Knit Tank",
+        "price": 42,
+        "description": "Quick Shop"
       },
       {
-        "name": "OBEY Pull-On Denim Easy Pant",
-        "price": "$95.00",
-        "description": ""
+        "name": "BDG Ecru Knitted Vest",
+        "price": 42,
+        "description": "Quick Shop"
       },
       {
-        "name": "Dickies Thomasville Straight Leg Jean",
-        "price": "$65.00",
-        "description": ""
+        "name": "Ed Hardy UO Exclusive White Waffle Vest",
+        "price": 30,
+        "description": "Quick Shop"
       },
       {
-        "name": "Levi’s® Made In Japan 1980 501 Jean",
-        "price": "$295.00",
-        "description": ""
+        "name": "BDG Recycled White Ribbed Vest",
+        "price": 20,
+        "description": "Quick Shop"
       },
       {
-        "name": "BDG Pleated Straight Fit Denim Jean",
-        "price": "$59.00",
-        "description": ""
+        "name": "Ed Hardy NYC Skull Top",
+        "price": 40,
+        "description": "Quick Shop"
       },
       {
-        "name": "Levi’s® 568 Stay Loose Straight Leg Cargo Jean",
-        "price": "$99.00",
-        "description": ""
+        "name": "Ed Hardy UO Exclusive Dragon Vest",
+        "price": 32,
+        "description": "Quick Shop"
       },
       {
-        "name": "BDG Big Jack Jean",
-        "price": "$69.00",
-        "description": ""
+        "name": "Ed Hardy UO Exclusive Gothic Dragon T-Shirt",
+        "price": 36,
+        "description": "Quick Shop"
       },
       {
-        "name": "Tommy Jeans Jaimie Striped Loose Straight Jean",
-        "price": "$129.00",
-        "description": ""
+        "name": "Ed Hardy Womens Bee Lettuce Hem T-Shirt",
+        "price": 40,
+        "description": "Quick Shop"
       },
       {
-        "name": "Tommy Jeans Otis Regular Fit Jean",
-        "price": "$119.00",
-        "description": ""
+        "name": "Ed Hardy UO Exclusive White Waffle T-Shirt",
+        "price": 49,
+        "description": "Quick Shop"
       },
       {
-        "name": "WORSHIP SUPPLIES Cat Burglar Embroidered Jean",
-        "price": "$110.00",
-        "description": ""
+        "name": "Ed Hardy UO Exclusive Western Dragon Hoodie",
+        "price": 79,
+        "description": "Quick Shop"
       },
       {
-        "name": "Katin George 64 Relaxed Fit Jean",
-        "price": "$89.00",
-        "description": ""
+        "name": "Ed Hardy UO Exclusive Rose Zip-Up Hoodie",
+        "price": 68,
+        "description": "Quick Shop"
       },
       {
-        "name": "BDG Baggy Skate Fit Denim Jean",
-        "price": "$49.00",
-        "description": ""
+        "name": "Ed Hardy UO Exclusive Seersucker Short Sleeve Shirt",
+        "price": 60,
+        "description": "Quick Shop"
       },
       {
-        "name": "Levi’s® Made In Japan 1980s 501 Jean",
-        "price": "$400.00",
-        "description": ""
+        "name": "Abrand 94 Quinn Wide Leg Jean",
+        "price": 53.95,
+        "description": "Shop Abrand 94 Quinn Wide Leg Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "Diesel D-Macs Distressed Straight Leg Jean",
-        "price": "$375.00",
-        "description": ""
+        "name": "Abrand Vesta 94 Wide Leg Jean",
+        "price": 154,
+        "description": "Abrand Vesta 94 Wide Leg Jean."
       },
       {
-        "name": "Lee Wabash Stripe Carpenter Jean",
-        "price": "$79.00",
-        "description": ""
+        "name": "The Ragged Priest Atmosphere Release Distressed Jean",
+        "price": 144,
+        "description": "The Ragged Priest Atmosphere Release Distressed Jean."
       },
       {
-        "name": "BDG Skate Stripe Tee",
-        "price": "$49.00",
-        "description": "Shop BDG Skate Stripe Tee at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "True Religion Bobbi Super QT Baggy Jean",
+        "price": 219,
+        "description": "True Religion Bobbi Super QT Baggy Jean."
       },
       {
-        "name": "Standard Cloth Touchdown Boxy Mesh Tee",
-        "price": "$39.00",
-        "description": "Standard Cloth Touchdown Boxy Mesh Tee available in 3 colors."
+        "name": "BDG Joey Full Length Wide Leg Jean",
+        "price": 79,
+        "description": "BDG Joey Full Length Wide Leg Jean."
       },
       {
-        "name": "THRILLS Tribute To Chaos Striped Tee",
-        "price": "$50.00",
-        "description": "THRILLS Tribute To Chaos Striped Tee available in 1 color."
+        "name": "Abrand 95 Nicole Mid-Rise Super Baggy Jean",
+        "price": 194,
+        "description": "Abrand 95 Nicole Mid-Rise Super Baggy Jean."
       },
       {
-        "name": "Oakley Dual French Terry Tee",
-        "price": "$35.00",
-        "description": "Oakley Dual French Terry Tee available in 1 color."
+        "name": "True Religion Bobbi Big-T Low Rise Baggy Jean",
+        "price": 219,
+        "description": "True Religion Bobbi Big-T Low Rise Baggy Jean."
       },
       {
-        "name": "KAVU Post Alley Patterned Tee",
-        "price": "$55.00",
-        "description": "KAVU Post Alley Patterned Tee available in 1 color."
+        "name": "BDG Thea Cuffed Wide Leg Jean",
+        "price": 99,
+        "description": "BDG Thea Cuffed Wide Leg Jean."
       },
       {
-        "name": "MOUTY Axel Rainbow Ombre Shirt",
-        "price": "$400.00",
-        "description": "MOUTY Axel Rainbow Ombre Shirt available in 1 color."
+        "name": "BDG Anika Ultra-Wide Leg Column Jean",
+        "price": 99,
+        "description": "BDG Anika Ultra-Wide Leg Column Jean."
       },
       {
-        "name": "Levi’s® Workwear Pocket Tee",
-        "price": "$35.00",
-        "description": "Levi’s® Workwear Pocket Tee available in 2 colors."
+        "name": "BDG Izzy Pinstripe Mid-Rise Baggy Jean",
+        "price": 89,
+        "description": "BDG Izzy Pinstripe Mid-Rise Baggy Jean."
       },
       {
-        "name": "Katin Orb Embroidered Tee",
-        "price": "$35.00",
-        "description": "Katin Orb Embroidered Tee available in 2 colors."
+        "name": "The Ragged Priest Satellite Release Jean",
+        "price": 154,
+        "description": "The Ragged Priest Satellite Release Jean."
       },
       {
-        "name": "Katin Greg Stripe Pattern Cotton Tee",
-        "price": "$39.00",
-        "description": "Katin Greg Stripe Pattern Cotton Tee available in 2 colors."
+        "name": "BDG Joey A-Line Wide-Leg Jean",
+        "price": 79,
+        "description": "BDG Joey A-Line Wide-Leg Jean."
       },
       {
-        "name": "BDG Bonfire Cropped Cotton Tee",
-        "price": "$29.00",
-        "description": "BDG Bonfire Cropped Cotton Tee available in 9 colors."
+        "name": "Abrand 94 Gita High & Wide Jean",
+        "price": 164,
+        "description": "Abrand 94 Gita High & Wide Jean."
       },
       {
-        "name": "Katin Embroidered Icon Cotton Tee",
-        "price": "$35.00",
-        "description": "Katin Embroidered Icon Cotton Tee available in 2 colors."
+        "name": "Basic Pleasure Mode Limelight Hardware Cut-Out Detail Jean",
+        "price": 154,
+        "description": "Basic Pleasure Mode Limelight Hardware Cut-Out Detail Jean."
       },
       {
-        "name": "BDG Square Neck Tank Top",
-        "price": "$19.00 – $25.00",
-        "description": "Top Rated, Color: Pink + Brown Stripe, Fit: Regular, Available in sizes XS, S, M, L, XL."
+        "name": "BDG Logan Buckle Baggy Barrel Jean",
+        "price": 89,
+        "description": "BDG Logan Buckle Baggy Barrel Jean."
       },
       {
-        "name": "BDG Carla Sweetheart Neckline Ribbed Knit Tube Top",
-        "price": "$19.00 – $25.00",
-        "description": "Available in 8 colors."
+        "name": "Abrand Loretta 94 Super Wide Leg Jean",
+        "price": 169,
+        "description": "Abrand Loretta 94 Super Wide Leg Jean."
       },
       {
-        "name": "BDG Joanna Ribbed Knit Halter Top",
-        "price": "$19.00 – $25.00",
-        "description": "Available in 8 colors."
+        "name": "True Religion Jessie Wing Super Baggy Jean",
+        "price": 169,
+        "description": "True Religion Jessie Wing Super Baggy Jean."
       },
       {
-        "name": "Silence + Noise Club Classic Cropped Halter Top",
-        "price": "$29.00",
-        "description": "Available in 4 colors."
+        "name": "The Ragged Priest Scale Snakeskin Print Slim Sweeper Jean",
+        "price": 169,
+        "description": "The Ragged Priest Scale Snakeskin Print Slim Sweeper Jean."
       },
       {
-        "name": "BDG Brooke Double Layer Cami",
-        "price": "$29.00",
-        "description": "Available in 4 colors."
+        "name": "Abrand A 94 High & Wide Jean",
+        "price": 179,
+        "description": "Abrand A 94 High & Wide Jean."
       },
       {
-        "name": "UO Jess Keyhole Open-Back Muscle Tank Top",
-        "price": "$35.00",
-        "description": "Available in 3 colors."
+        "name": "Abrand Vesta 94 Wide Leg Jean",
+        "price": 154,
+        "description": "Shop Abrand Vesta 94 Wide Leg Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "BDG MJ Ribbed Knit Slim Tank Top",
-        "price": "$19.00",
-        "description": "Available in 3 colors."
+        "name": "BDG Joey Full Length Wide Leg Jean",
+        "price": 79,
+        "description": "Shop BDG Joey Full Length Wide Leg Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "True Religion Bobbi Super Distressed Mid-Rise Baggy Jean",
+        "price": 169,
+        "description": "Shop True Religion Bobbi Super Distressed Mid-Rise Baggy Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Basic Pleasure Mode Limelight Hardware Cut-Out Detail Jean",
+        "price": 154,
+        "description": "Shop Basic Pleasure Mode Limelight Hardware Cut-Out Detail Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Logan Buckle Baggy Barrel Jean",
+        "price": 89,
+        "description": "Shop BDG Logan Buckle Baggy Barrel Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Niko Baggy Skate Jean",
+        "price": 99,
+        "description": "Shop BDG Niko Baggy Skate Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "True Religion Jessie Upcycled Big T Wide Leg Jean",
+        "price": 179,
+        "description": "Shop True Religion Jessie Upcycled Big T Wide Leg Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Abrand Kendall 94 High & Wide Jean",
+        "price": 154,
+        "description": "Shop Abrand Kendall 94 High & Wide Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Abrand Loretta 94 Super Wide Leg Jean",
+        "price": 169,
+        "description": "Shop Abrand Loretta 94 Super Wide Leg Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Jaya Boxer Waistband Baggy Boyfriend Jean",
+        "price": 114,
+        "description": "Shop BDG Jaya Boxer Waistband Baggy Boyfriend Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "True Religion Bobbi Super QT Baggy Jean",
+        "price": 219,
+        "description": "Shop True Religion Bobbi Super QT Baggy Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "True Religion Leila Cuffed Low Rise Baggy Jean",
+        "price": 154,
+        "description": "Shop True Religion Leila Cuffed Low Rise Baggy Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Jaya Embellished Baggy Boyfriend Jean",
+        "price": 114,
+        "description": "Shop BDG Jaya Embellished Baggy Boyfriend Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "True Religion Big T Jessie Super Baggy Jean",
+        "price": 179,
+        "description": "Shop True Religion Big T Jessie Super Baggy Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Anika Ultra-Wide Leg Column Jean",
+        "price": 99,
+        "description": "Shop BDG Anika Ultra-Wide Leg Column Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Thea Cuffed Wide Leg Jean",
+        "price": 99,
+        "description": "Shop BDG Thea Cuffed Wide Leg Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Native Youth Lacy Vintage Wash Baggy Jean",
+        "price": 104,
+        "description": "Shop Native Youth Lacy Vintage Wash Baggy Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Abrand Carrie Dirty Wash Wide Leg Jean",
+        "price": 179,
+        "description": "Shop Abrand Carrie Dirty Wash Wide Leg Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "True Religion Bobbi Big-T Low Rise Baggy Jean",
+        "price": 219,
+        "description": "Shop True Religion Bobbi Big-T Low Rise Baggy Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Hosbjerg Rue Lace Up Tank Top",
+        "price": 129.99,
+        "description": "Shop Hosbjerg Rue Lace Up Tank Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Veronica Short Sleeve Button-Down Shirt",
+        "price": 54,
+        "description": "Shop BDG Veronica Short Sleeve Button-Down Shirt at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kimchi Blue Ava Flutter Sleeve Tie-Front Babydoll Top",
+        "price": 64,
+        "description": "Shop Kimchi Blue Ava Flutter Sleeve Tie-Front Babydoll Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kimchi Blue Amelia Sheer Tie-Front Blouse",
+        "price": 79,
+        "description": "Shop Kimchi Blue Amelia Sheer Tie-Front Blouse at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kimchi Blue Secret Garden Eyelet Lace Tie-Front Bed Jacket",
+        "price": 64,
+        "description": "Shop Kimchi Blue Secret Garden Eyelet Lace Tie-Front Bed Jacket at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kimchi Blue Izzy Lace Trim Button-Front Babydoll Blouse",
+        "price": 74,
+        "description": "Shop Kimchi Blue Izzy Lace Trim Button-Front Babydoll Blouse at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kimchi Blue Daylight Smocked Tie-Front Cropped Blouse",
+        "price": 64,
+        "description": "Shop Kimchi Blue Daylight Smocked Tie-Front Cropped Blouse at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Neon Rose Meredith Double Collar Check Print Blouse",
+        "price": 99,
+        "description": "Shop Neon Rose Meredith Double Collar Check Print Blouse at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Motel Lada Lace-Trim Chiffon Button-Down Blouse",
+        "price": 79,
+        "description": "Shop Motel Lada Lace-Trim Chiffon Button-Down Blouse at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "UO Twilla Ruffled Sheer Chiffon Tie-Front Flyaway Blouse",
+        "price": 99,
+        "description": "Shop UO Twilla Ruffled Sheer Chiffon Tie-Front Flyaway Blouse at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "For Love & Lemons Harlow Eyelet Lace Top",
+        "price": 259,
+        "description": "Shop For Love & Lemons Harlow Eyelet Lace Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Silence + Noise Julia Halter Denim Vest Top",
+        "price": 64,
+        "description": "Shop Silence + Noise Julia Halter Denim Vest Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kimchi Blue Eleanor Flyaway Hanky Hem Blouse",
+        "price": 64,
+        "description": "Shop Kimchi Blue Eleanor Flyaway Hanky Hem Blouse at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Silence + Noise Addison Faux Leather Vest Top",
+        "price": 79,
+        "description": "Shop Silence + Noise Addison Faux Leather Vest Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Silence + Noise Leilani Slim Button Up Shirt",
+        "price": 79,
+        "description": "Shop Silence + Noise Leilani Slim Button Up Shirt at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Silence + Noise Esme Cropped Denim Halter Vest Top",
+        "price": 79,
+        "description": "Shop Silence + Noise Esme Cropped Denim Halter Vest Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kimchi Blue Juliette Keyhole Scoop Neck Crinkle Blouse",
+        "price": 54,
+        "description": "Shop Kimchi Blue Juliette Keyhole Scoop Neck Crinkle Blouse at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "LoveShackFancy Woodley Bow Bustier Top",
+        "price": 584,
+        "description": "Shop LoveShackFancy Woodley Bow Bustier Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Alex Breezy Cotton Oversized Button-Down Shirt",
+        "price": 64,
+        "description": "Shop BDG Alex Breezy Cotton Oversized Button-Down Shirt at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Neon Rose Gracie Oversized Collar Ruffle Trim Plaid Blouse",
+        "price": 99,
+        "description": "Shop Neon Rose Gracie Oversized Collar Ruffle Trim Plaid Blouse at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Asher Printed Souvenir Short Sleeve Button-Down Shirt",
+        "price": 64,
+        "description": "Shop BDG Asher Printed Souvenir Short Sleeve Button-Down Shirt at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "House Of Sunny Chunky Rib Top",
+        "price": 179,
+        "description": "Shop House Of Sunny Chunky Rib Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "House Of Sunny Courtney Towelling Rollneck Sweater",
+        "price": 169,
+        "description": "House Of Sunny Courtney Towelling Rollneck Sweater."
+      },
+      {
+        "name": "House Of Sunny Chocolate Peggy Faux Fur Trim Zip-Up Sweater",
+        "price": 189,
+        "description": "House Of Sunny Chocolate Peggy Faux Fur Trim Zip-Up Sweater."
+      },
+      {
+        "name": "House Of Sunny Chunky Rib Peggy Zip-Up Cardigan",
+        "price": 189,
+        "description": "House Of Sunny Chunky Rib Peggy Zip-Up Cardigan."
+      },
+      {
+        "name": "Kimchi Blue Vita Lace-Up Sweater Vest",
+        "price": 64,
+        "description": "Kimchi Blue Vita Lace-Up Sweater Vest."
       },
       {
         "name": "UO Penny Ribbed Knit One-Shoulder Crop Top",
-        "price": "$25.00",
-        "description": "Available in 3 colors."
+        "price": 34,
+        "description": "UO Penny Ribbed Knit One-Shoulder Crop Top."
       },
       {
-        "name": "UO Isabel O-Ring Plunging Cowl Halter Top",
-        "price": "$35.00",
-        "description": "Available in 2 colors."
+        "name": "Out From Under Liv One-Shoulder Textured Seamless Knit Top",
+        "price": 34,
+        "description": "Out From Under Liv One-Shoulder Textured Seamless Knit Top."
       },
       {
-        "name": "UO Cleo Asymmetrical Cutout Cropped Tank Top",
-        "price": "$29.00",
-        "description": "Available in 1 color."
+        "name": "Fantastic Baby Vanjie Off-The-Shoulder Top",
+        "price": 84,
+        "description": "Fantastic Baby Vanjie Off-The-Shoulder Top."
       },
       {
-        "name": "Silence + Noise Coyote Cowl Neck Halter Top",
-        "price": "$29.00",
-        "description": "Available in 10 colors."
+        "name": "Urban Renewal Remnants Ribbed Knit Drippy Sleeve Sweater",
+        "price": 44,
+        "description": "Urban Renewal Remnants Ribbed Knit Drippy Sleeve Sweater."
       },
       {
-        "name": "Out From Under Plunge Ribbed Seamless Knit Cropped Cami",
-        "price": "$19.00",
-        "description": "Available in 4 colors."
+        "name": "Kimchi Blue Vivian Cable Knit Short Sleeve Cardigan",
+        "price": 54,
+        "description": "Kimchi Blue Vivian Cable Knit Short Sleeve Cardigan."
       },
       {
-        "name": "Out From Under Cotton Compression Boatneck Tee",
-        "price": "$25.00",
-        "description": "Available in 10 colors."
+        "name": "FILA X HAILEY V-Neck Knit Sweater",
+        "price": 184,
+        "description": "FILA X HAILEY V-Neck Knit Sweater."
       },
       {
-        "name": "RAT BOI Scoop Back Lace Trim Cami",
-        "price": "$35.00 – $47.00",
-        "description": "Available in 10 colors."
+        "name": "House Of Sunny Peggy Leopard Faux Fur Trim Zip-Up Sweater",
+        "price": 198,
+        "description": "House Of Sunny Peggy Leopard Faux Fur Trim Zip-Up Sweater."
       },
       {
-        "name": "Silence + Noise Camellia Mesh Halter Top",
-        "price": "$19.00",
-        "description": "Available in 6 colors."
+        "name": "Kimchi Blue Rose Split-Front Textured Knit Cardigan",
+        "price": 64,
+        "description": "Kimchi Blue Rose Split-Front Textured Knit Cardigan."
       },
       {
-        "name": "Out From Under Je T'aime Mesh Cropped Cami",
-        "price": "$29.00",
-        "description": "Available in 10 colors."
+        "name": "UO Daria Asymmetrical One-Shoulder Cropped Top",
+        "price": 39,
+        "description": "UO Daria Asymmetrical One-Shoulder Cropped Top."
       },
       {
-        "name": "Out From Under Bettie Ditsy Floral Lace Trim Cami",
-        "price": "$29.00",
-        "description": "Available in 2 colors."
+        "name": "Jaded London Ash Faux Leather Corset Top",
+        "price": 129,
+        "description": "Jaded London Ash Faux Leather Corset Top."
       },
       {
-        "name": "Out From Under Cotton Compression Boatneck Long Sleeve Top",
-        "price": "$29.00",
-        "description": "Available in 7 colors."
+        "name": "Urban Renewal Remnants Space Dye Knit Drippy Sleeve Sweater",
+        "price": 44,
+        "description": "Urban Renewal Remnants Space Dye Knit Drippy Sleeve Sweater."
       },
       {
-        "name": "Out From Under Bec Pinch Front Fitted Cami",
-        "price": "$19.00",
-        "description": "Available in 11 colors."
+        "name": "Jaded London Stripe Velour Fitted Hoodie Sweatshirt",
+        "price": 154,
+        "description": "Jaded London Stripe Velour Fitted Hoodie Sweatshirt."
       },
       {
-        "name": "Out From Under Roux Seamless Long Sleeve Top",
-        "price": "$39.00",
-        "description": "Available in 9 colors."
+        "name": "The Ragged Priest Load Cable Knit Cropped Sweater",
+        "price": 124,
+        "description": "The Ragged Priest Load Cable Knit Cropped Sweater."
       },
       {
-        "name": "BDG Studded Up Sweatpant",
-        "price": "$19.95",
-        "description": "Shop BDG Studded Up Sweatpant at Urban Outfitters today. Discover more selections just like this online or in-store. Shop your favorite brands and sign up for UO Rewards to receive 10% off your next purchase!"
+        "name": "Jaded London Football Jersey Graphic Baby Tee",
+        "price": 104,
+        "description": "Jaded London Football Jersey Graphic Baby Tee."
       },
       {
-        "name": "Standard Cloth Knit Side Stripe Sweatpant",
-        "price": "$59.00",
-        "description": "Standard Cloth Knit Side Stripe Sweatpant"
+        "name": "Kimchi Blue Molly Floral Crochet Open-Back Tie Halter Tank Top",
+        "price": 114,
+        "description": "Kimchi Blue Molly Floral Crochet Open-Back Tie Halter Tank Top."
       },
       {
-        "name": "Katin Lounge Sweatpant",
-        "price": "$59.00",
-        "description": "Katin Lounge Sweatpant"
+        "name": "I Think You Stink Graphic Tee",
+        "price": 39,
+        "description": "Shop I Think You Stink Graphic Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "BDG Star Graphic Cone Sweatpant",
-        "price": "$59.00",
-        "description": "BDG Star Graphic Cone Sweatpant"
+        "name": "Jeep 1975 Heritage Graphic Tee",
+        "price": 39,
+        "description": "Jeep 1975 Heritage Graphic Tee"
       },
       {
-        "name": "Pro Standard MLB Los Angeles Dodgers Relaxed Sweatpant",
-        "price": "$100.00",
-        "description": "Pro Standard MLB Los Angeles Dodgers Relaxed Sweatpant"
+        "name": "Charli XCX UO Exclusive Everything Is Romantic Graphic Tee",
+        "price": 44,
+        "description": "Charli XCX UO Exclusive Everything Is Romantic Graphic Tee"
       },
       {
-        "name": "The North Face Fleeski Pant",
-        "price": "$100.00",
-        "description": "The North Face Fleeski Pant"
+        "name": "Katin Distance Graphic Tee",
+        "price": 44,
+        "description": "Katin Distance Graphic Tee"
       },
       {
-        "name": "Pro Standard MLB New York Yankees Logo Sweatpant",
-        "price": "$100.00",
-        "description": "Pro Standard MLB New York Yankees Logo Sweatpant"
+        "name": "Campus Graphic Tee",
+        "price": 39,
+        "description": "Campus Graphic Tee"
       },
       {
-        "name": "Standard Cloth Jason Relaxed Pleated Trouser Pant",
-        "price": "$59.00",
-        "description": "Standard Cloth Jason Relaxed Pleated Trouser Pant"
+        "name": "OBEY Osaka Photo Graphic Tee",
+        "price": 49,
+        "description": "OBEY Osaka Photo Graphic Tee"
       },
       {
-        "name": "Puma T7 Velour Oversized Track Pant",
-        "price": "$80.00",
-        "description": "Puma T7 Velour Oversized Track Pant"
+        "name": "Eiko Washed Cotton Graphic Tee",
+        "price": 54,
+        "description": "Eiko Washed Cotton Graphic Tee"
       },
       {
-        "name": "BDG Bonfire Solid Straight Leg Sweatpant",
-        "price": "$55.00",
-        "description": "BDG Bonfire Solid Straight Leg Sweatpant"
+        "name": "Katin Vibrations Graphic Tee",
+        "price": 44,
+        "description": "Katin Vibrations Graphic Tee"
       },
       {
-        "name": "Standard Cloth Relaxed Fit Open Hem Wide Leg Sweatpant",
-        "price": "$49.00",
-        "description": "Standard Cloth Relaxed Fit Open Hem Wide Leg Sweatpant"
+        "name": "Auto Services Graphic Thermal Long Sleeve Tee",
+        "price": 59,
+        "description": "Auto Services Graphic Thermal Long Sleeve Tee"
       },
       {
-        "name": "Standard Cloth Pinstripe Pullon Trouser Pant",
-        "price": "$59.00",
-        "description": "Standard Cloth Pinstripe Pullon Trouser Pant"
+        "name": "Camp Spirit Cotton Graphic Tee",
+        "price": 39,
+        "description": "Camp Spirit Cotton Graphic Tee"
       },
       {
-        "name": "BDG Double Knee Drawstring Sweatpant",
-        "price": "$59.00",
-        "description": "BDG Double Knee Drawstring Sweatpant"
+        "name": "Tears In The Void Tonal Graphic Tee",
+        "price": 39,
+        "description": "Tears In The Void Tonal Graphic Tee"
       },
       {
-        "name": "Manastash Flex Climber Wide Leg Pant",
-        "price": "$120.00",
-        "description": "Manastash Flex Climber Wide Leg Pant"
+        "name": "Billy’s Burgers Graphic Tee",
+        "price": 39,
+        "description": "Billy’s Burgers Graphic Tee"
       },
       {
-        "name": "Cookman Herringbone Chef Pant",
-        "price": "$44.00",
-        "description": "Cookman Herringbone Chef Pant"
+        "name": "Merrell UO Exclusive Carabiner Graphic Tee",
+        "price": 54,
+        "description": "Merrell UO Exclusive Carabiner Graphic Tee"
       },
       {
-        "name": "UO Wesley Twill Pull-On Chino Pant",
-        "price": "$49.00",
-        "description": "UO Wesley Twill Pull-On Chino Pant"
+        "name": "Katin Boogie Graphic Tee",
+        "price": 44,
+        "description": "Katin Boogie Graphic Tee"
       },
       {
-        "name": "Standard Cloth Foundation Reverse Terry Sweatpant",
-        "price": "$49.00",
-        "description": "Standard Cloth Foundation Reverse Terry Sweatpant"
+        "name": "Parks Project You Break It You Buy It Graphic Tee",
+        "price": 49,
+        "description": "Parks Project You Break It You Buy It Graphic Tee"
       },
       {
-        "name": "UO Uniform Relaxed Fit Sweatpant",
-        "price": "$39.00",
-        "description": "UO Uniform Relaxed Fit Sweatpant"
+        "name": "Neopets Grid Graphic Tee",
+        "price": 39,
+        "description": "Neopets Grid Graphic Tee"
       },
       {
-        "name": "Standard Cloth Suiting Pullon Trouser Pant",
-        "price": "$69.00",
-        "description": "Standard Cloth Suiting Pullon Trouser Pant"
+        "name": "The Weeknd UO Exclusive Hurry Up Tomorrow Mask Graphic Tee",
+        "price": 54,
+        "description": "The Weeknd UO Exclusive Hurry Up Tomorrow Mask Graphic Tee"
       },
       {
-        "name": "OBEY Bigwig Giant Chino Pant",
-        "price": "$85.00",
-        "description": "OBEY Bigwig Giant Chino Pant"
+        "name": "Get Your Five A Day Graphic Tee",
+        "price": 39,
+        "description": "Get Your Five A Day Graphic Tee"
       },
       {
-        "name": "BDG White Broderie Shirt",
-        "price": "$64.00",
-        "description": "Shop BDG White Broderie Shirt at Urban Outfitters today. Discover more selections just like this online or in-store. Shop your favorite brands and sign up for UO Rewards to receive 10% off your next purchase!"
+        "name": "Alpha Industries Uniform API-01 Graphic Tee",
+        "price": 54,
+        "description": "Alpha Industries Uniform API-01 Graphic Tee"
       },
       {
-        "name": "GUESS ORIGINALS Vintage Patch Work Shirt",
-        "price": "$98.00",
-        "description": "Vintage Patch Work Shirt from GUESS ORIGINALS."
+        "name": "Pro Standard NFL San Francisco 49ers Long Sleeve Tee",
+        "price": 99,
+        "description": "Pro Standard NFL San Francisco 49ers Long Sleeve Tee"
       },
       {
-        "name": "Raga Man Manbir Short Sleeve Shirt",
-        "price": "$120.00",
-        "description": "Short Sleeve Shirt from Raga Man."
+        "name": "Death Row Records Doberman Graphic Tee",
+        "price": 54,
+        "description": "Death Row Records Doberman Graphic Tee"
       },
       {
-        "name": "Katin Sol Patterned Short Sleeve Shirt",
-        "price": "$69.00",
-        "description": "Patterned Short Sleeve Shirt from Katin."
+        "name": "It’s Now Cool Crochet Crop Top",
+        "price": 114,
+        "description": "Shop It’s Now Cool Crochet Crop Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "LC23 Looney Tunes Printed Long Sleeve Button-Down Shirt",
-        "price": "$209.00",
-        "description": "Printed Long Sleeve Button-Down Shirt featuring Looney Tunes."
+        "name": "It’s Now Cool Earth Crimp The Triangle Bikini Top",
+        "price": 104,
+        "description": "Shop It’s Now Cool Earth Crimp The Triangle Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "Raga Man Riian Crochet Panel Short Sleeve Shirt",
-        "price": "$185.00",
-        "description": "Crochet Panel Short Sleeve Shirt from Raga Man."
+        "name": "It’s Now Cool Paddle Pop Crochet Triangle Bikini Top",
+        "price": 104,
+        "description": "Shop It’s Now Cool Paddle Pop Crochet Triangle Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "OBEY Sunday Woven Eyelet Short Sleeve Button-Down Shirt",
-        "price": "$98.00",
-        "description": "Woven Eyelet Short Sleeve Button-Down Shirt from OBEY."
+        "name": "It’s Now Cool Colorblock The Triangle bikini top",
+        "price": 79,
+        "description": "Shop It’s Now Cool Colorblock The Triangle bikini top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "Dickies Lewistown Long Sleeve Button-Down Work Shirt",
-        "price": "$60.00",
-        "description": "Long Sleeve Button-Down Work Shirt from Dickies."
+        "name": "Kulani Kinis Purple Pearls Halter Bralette Bikini Top",
+        "price": 79,
+        "description": "Shop Kulani Kinis Purple Pearls Halter Bralette Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "KAVU Bay Beach Camp Shirt",
-        "price": "$80.00",
-        "description": "Beach Camp Shirt from KAVU."
+        "name": "It’s Now Cool Stripe The Triangle Bikini Top",
+        "price": 94,
+        "description": "Shop It’s Now Cool Stripe The Triangle Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "Pas de Mer Fresh Cocktail Embroidered Button-Down Shirt",
-        "price": "$166.00",
-        "description": "Embroidered Button-Down Shirt from Pas de Mer."
+        "name": "It’s Now Cool The Reverse Red Twist Tri Top",
+        "price": 94,
+        "description": "Shop It’s Now Cool The Reverse Red Twist Tri Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "Polo Ralph Lauren Garment Dyed Oxford Button-Down Shirt",
-        "price": "$125.00",
-        "description": "Garment Dyed Oxford Button-Down Shirt from Polo Ralph Lauren."
+        "name": "It’s Now Cool Gallipoli The Triangle Duo Bikini Top",
+        "price": 154,
+        "description": "Shop It’s Now Cool Gallipoli The Triangle Duo Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "Raga Man Pranit Embroidered Short Sleeve Shirt",
-        "price": "$185.00",
-        "description": "Embroidered Short Sleeve Shirt from Raga Man."
+        "name": "Maaji Satin Umber Balmy Sliding Triangle Bikini Top",
+        "price": 129,
+        "description": "Shop Maaji Satin Umber Balmy Sliding Triangle Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "Katin Benji Patterned Short Sleeve Shirt",
-        "price": "$69.00",
-        "description": "Patterned Short Sleeve Shirt from Katin."
+        "name": "Motel Pami Stripe Triangle Bikini Top",
+        "price": 59,
+        "description": "Shop Motel Pami Stripe Triangle Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "Monitaly Milano Short Sleeve Shirt",
-        "price": "$352.00",
-        "description": "Short Sleeve Shirt from Monitaly."
+        "name": "It’s Now Cool ‘90s Duo Crop Smartie Bikini Top",
+        "price": 94,
+        "description": "Shop It’s Now Cool ‘90s Duo Crop Smartie Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "Loser Machine Plaid Woven Short Sleeve Shirt",
-        "price": "$76.00",
-        "description": "Plaid Woven Short Sleeve Shirt from Loser Machine."
+        "name": "MINKPINK Nikita Picnic Triangle Top",
+        "price": 79,
+        "description": "Shop MINKPINK Nikita Picnic Triangle Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "UO Stripe Pattern Cut-Off Oxford Shirt",
-        "price": "$49.00",
-        "description": "Cut-Off Oxford Shirt with Stripe Pattern from UO."
+        "name": "It’s Now Cool The Crochet Frill Candyland Bikini Top",
+        "price": 114,
+        "description": "Shop It’s Now Cool The Crochet Frill Candyland Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "Dark Seas Paducah Woven Short Sleeve Shirt",
-        "price": "$82.00",
-        "description": "Woven Short Sleeve Shirt from Dark Seas."
+        "name": "Frankies Bikinis Cola Rosewater Underwire Balconette Bikini Top",
+        "price": 124,
+        "description": "Shop Frankies Bikinis Cola Rosewater Underwire Balconette Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "KARDO Yusuke Striped Woven Cotton Shirt",
-        "price": "$160.00",
-        "description": "Striped Woven Cotton Shirt from KARDO."
+        "name": "Billabong Salt And Sol Chloe Underwire Bikini Top",
+        "price": 94,
+        "description": "Shop Billabong Salt And Sol Chloe Underwire Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "KARDO Ronen Camo Pattern Shirt",
-        "price": "$300.00",
-        "description": "Camo Pattern Shirt from KARDO."
+        "name": "Billabong Stuck On You Tanlines Helena Underwire Bikini Top",
+        "price": 94,
+        "description": "Shop Billabong Stuck On You Tanlines Helena Underwire Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "BDG Willow Roma Baby Tee",
-        "price": "$14.99",
-        "description": "Top Rated, Color: Navy, Fit: Regular, Sizes: XS, S, M, L, XL, XXL, XXXL."
+        "name": "Kulani Kinis Cutie Frutti Bindi Tie Halter Bikini Top",
+        "price": 79,
+        "description": "Shop Kulani Kinis Cutie Frutti Bindi Tie Halter Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Billabong Sea Spray Avery Slide Triangle Bikini Top",
+        "price": 89,
+        "description": "Shop Billabong Sea Spray Avery Slide Triangle Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kulani Kinis Pitaya Maya Underwire Triangle Bikini Top",
+        "price": 79,
+        "description": "Shop Kulani Kinis Pitaya Maya Underwire Triangle Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Out From Under Sydney Printed Halter Bikini Top",
+        "price": 39,
+        "description": "Shop Out From Under Sydney Printed Halter Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Solid + Striped Sky Chartreuse Ombre Ellery Bikini Top",
+        "price": 169,
+        "description": "Shop Solid + Striped Sky Chartreuse Ombre Ellery Bikini Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Janji Run All Day Running Tee",
+        "price": 79,
+        "description": "Shop Janji Run All Day Running Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "PRAISE Music Sounds Better With Running Tie-Dye Tee",
+        "price": 64,
+        "description": "Shop PRAISE Music Sounds Better With Running Tie-Dye Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Without Walls Logo Graphic Boxy Tee",
+        "price": 54,
+        "description": "Shop Without Walls Logo Graphic Boxy Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Run Amok Mathis Active Graphic Tee",
+        "price": 64,
+        "description": "Shop Run Amok Mathis Active Graphic Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Hermanos Koumori Runners Graphic Tee",
+        "price": 114,
+        "description": "Shop Hermanos Koumori Runners Graphic Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Janji Circa Daily Graphic Tee",
+        "price": 69,
+        "description": "Shop Janji Circa Daily Graphic Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "PRAISE No Thanks Graphic Tee",
+        "price": 64,
+        "description": "Shop PRAISE No Thanks Graphic Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Hermanos Koumori Emotional Running Cutoff Muscle Tee",
+        "price": 114,
+        "description": "Shop Hermanos Koumori Emotional Running Cutoff Muscle Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Roark Expeditions Graphic Tee",
+        "price": 44,
+        "description": "Shop Roark Expeditions Graphic Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Sport Graphic Vintage Ribbed Inset Tee",
+        "price": 54,
+        "description": "Shop Sport Graphic Vintage Ribbed Inset Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "OBEY Bizarre New Visions Long Sleeve Graphic Tee",
+        "price": 79,
+        "description": "Shop OBEY Bizarre New Visions Long Sleeve Graphic Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Hermanos Koumori Field Graphic Tank Top",
+        "price": 114,
+        "description": "Shop Hermanos Koumori Field Graphic Tank Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Metallica Ride The Lightning Graphic Tee",
+        "price": 39,
+        "description": "Shop Metallica Ride The Lightning Graphic Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Portofino Italia Graphic Long Sleeve Baby Tee",
+        "price": 59,
+        "description": "Shop Portofino Italia Graphic Long Sleeve Baby Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Stockholm 95 Graphic Double Layer Long Sleeve Baby Tee",
+        "price": 59,
+        "description": "Shop Stockholm 95 Graphic Double Layer Long Sleeve Baby Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Middle Of Nowhere Graphic Hoodie Sweatshirt",
+        "price": 79,
+        "description": "Shop Middle Of Nowhere Graphic Hoodie Sweatshirt at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Peace Snake Graphic Tee",
+        "price": 39,
+        "description": "Shop Peace Snake Graphic Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Hermanos Koumori Dido Graphic Crew Neck Sweatshirt",
+        "price": 169,
+        "description": "Shop Hermanos Koumori Dido Graphic Crew Neck Sweatshirt at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Nirvana Sliver Washed Cotton Graphic Tee",
+        "price": 39,
+        "description": "Shop Nirvana Sliver Washed Cotton Graphic Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Golden Tee Golf Arcade Graphic Tee",
+        "price": 39,
+        "description": "Shop Golden Tee Golf Arcade Graphic Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Urban Renewal Remade Jersey Shrug Top",
+        "price": 79,
+        "description": "Shop Urban Renewal Remade Jersey Shrug Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "KROST Trees Hoodie Sweatshirt",
+        "price": 128.99,
+        "description": "Shop KROST Trees Hoodie Sweatshirt at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "iets frans… Piped Crew Neck Sweatshirt",
+        "price": 89,
+        "description": "iets frans… Piped Crew Neck Sweatshirt"
+      },
+      {
+        "name": "Project Social T Angel Wing Graphic Zip-Up Hoodie Sweatshirt",
+        "price": 89,
+        "description": "Project Social T Angel Wing Graphic Zip-Up Hoodie Sweatshirt"
+      },
+      {
+        "name": "FRIED RICE Textured Linen Short Sleeve Shirt",
+        "price": 344,
+        "description": "FRIED RICE Textured Linen Short Sleeve Shirt"
+      },
+      {
+        "name": "Out From Under Try Me Bubble Hoodie Sweatshirt",
+        "price": 64,
+        "description": "Out From Under Try Me Bubble Hoodie Sweatshirt"
+      },
+      {
+        "name": "Cute Cat Crew Neck Sweatshirt",
+        "price": 79,
+        "description": "Cute Cat Crew Neck Sweatshirt"
+      },
+      {
+        "name": "Silence + Noise Wings Graphic Oversized Zip-Up Hoodie Sweatshirt",
+        "price": 89,
+        "description": "Silence + Noise Wings Graphic Oversized Zip-Up Hoodie Sweatshirt"
+      },
+      {
+        "name": "Out From Under Hoxton Cropped Zip-Up Hoodie Sweatshirt",
+        "price": 64,
+        "description": "Out From Under Hoxton Cropped Zip-Up Hoodie Sweatshirt"
+      },
+      {
+        "name": "West Coast Champions Oversized Off-The-Shoulder Sweatshirt",
+        "price": 89,
+        "description": "West Coast Champions Oversized Off-The-Shoulder Sweatshirt"
+      },
+      {
+        "name": "FILA X HAILEY V-Neck Pullover",
+        "price": 154,
+        "description": "FILA X HAILEY V-Neck Pullover"
+      },
+      {
+        "name": "iets frans… Embroidered Logo Hoodie Sweatshirt",
+        "price": 84,
+        "description": "iets frans… Embroidered Logo Hoodie Sweatshirt"
+      },
+      {
+        "name": "FRIED RICE Crochet Stripe Short Sleeve Shirt",
+        "price": 164,
+        "description": "FRIED RICE Crochet Stripe Short Sleeve Shirt"
+      },
+      {
+        "name": "Out From Under Imani Oversized Off-The-Shoulder Sweatshirt",
+        "price": 64,
+        "description": "Out From Under Imani Oversized Off-The-Shoulder Sweatshirt"
+      },
+      {
+        "name": "BDG Dusty Colorblock Patchwork Oversized Zip-Up Hoodie Sweatshirt",
+        "price": 89,
+        "description": "BDG Dusty Colorblock Patchwork Oversized Zip-Up Hoodie Sweatshirt"
+      },
+      {
+        "name": "Urban Renewal Remade Sporty Number Sweatshirt",
+        "price": 79,
+        "description": "Urban Renewal Remade Sporty Number Sweatshirt"
+      },
+      {
+        "name": "Dippin’ Daisy’s x Save Our Surf Apres Surf Graphic Crew Neck Pullover",
+        "price": 114,
+        "description": "Dippin’ Daisy’s x Save Our Surf Apres Surf Graphic Crew Neck Pullover"
+      },
+      {
+        "name": "FRIED RICE Textured Eyelash Long Sleeve Shirt",
+        "price": 344,
+        "description": "FRIED RICE Textured Eyelash Long Sleeve Shirt"
+      },
+      {
+        "name": "BDG Bowling Patch Graphic Zip-Up Hoodie Sweatshirt",
+        "price": 84,
+        "description": "BDG Bowling Patch Graphic Zip-Up Hoodie Sweatshirt"
+      },
+      {
+        "name": "Denver Embroidered Graphic Crew Neck Pullover",
+        "price": 64,
+        "description": "Denver Embroidered Graphic Crew Neck Pullover"
+      },
+      {
+        "name": "Strut This Mason Pullover Sweatshirt",
+        "price": 159,
+        "description": "Strut This Mason Pullover Sweatshirt"
+      },
+      {
+        "name": "Monaco Riviera Sporty Crew Neck Pullover",
+        "price": 79,
+        "description": "Monaco Riviera Sporty Crew Neck Pullover"
+      },
+      {
+        "name": "BDG Black Faux Leather Jacket",
+        "price": 58,
+        "description": "Shop BDG Black Faux Leather Jacket at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Nicolai Faux Leather Jacket",
+        "price": 68,
+        "description": "Shop BDG Nicolai Faux Leather Jacket at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Silvio Faux Leather Skate Hoodie",
+        "price": 79,
+        "description": "Shop BDG Silvio Faux Leather Skate Hoodie at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Perrie Faux Leather Bomber Jacket",
+        "price": 79,
+        "description": "Shop BDG Perrie Faux Leather Bomber Jacket at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "Silence + Noise Fitted Snake PU Jacket",
+        "price": 56,
+        "description": "Shop Silence + Noise Fitted Snake PU Jacket at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "Dickies Studded Belt",
+        "price": 35,
+        "description": "Shop Dickies Studded Belt at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "UO Flower Eyelet Skinny Faux Leather Belt",
+        "price": 24,
+        "description": "Shop UO Flower Eyelet Skinny Faux Leather Belt at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Silvio Faux Leather Skate hoodie",
+        "price": 79,
+        "description": "Shop BDG Silvio Faux Leather Skate hoodie at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Brown Nicolai Faux Leather Jacket",
+        "price": 79,
+        "description": "Shop BDG Brown Nicolai Faux Leather Jacket at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "Loom Black Premium T-Shirt",
+        "price": 25,
+        "description": "Shop Loom Black Premium T-Shirt at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Ronnie Faux Leather Jacket",
+        "price": 69,
+        "description": "Shop BDG Ronnie Faux Leather Jacket at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "iets frans... Black Pascal Reversible Panel Fleece Jacket",
+        "price": 79,
+        "description": "Shop iets frans... Black Pascal Reversible Panel Fleece Jacket at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Boxy Dex Faux Leather Jacket",
+        "price": 69,
+        "description": "Shop BDG Boxy Dex Faux Leather Jacket at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Frances Faux Leather Bomber Jacket",
+        "price": 79,
+        "description": "Shop BDG Frances Faux Leather Bomber Jacket at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Black Tony Stripe Harrington Jacket",
+        "price": 65,
+        "description": "Shop BDG Black Tony Stripe Harrington Jacket at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Recycled Black Ribbed Vest",
+        "price": 20,
+        "description": "Shop BDG Recycled Black Ribbed Vest at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "UO Black Star Studded Belt",
+        "price": 24,
+        "description": "Shop UO Black Star Studded Belt at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Jack Washed Black Jeans",
+        "price": 45,
+        "description": "Shop BDG Jack Washed Black Jeans at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "Ed Hardy UO Exclusive Dragon Embroidered Jeans",
+        "price": 85,
+        "description": "Shop Ed Hardy UO Exclusive Dragon Embroidered Jeans at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "iets frans... Puffer Ruched Tote bag",
+        "price": 40,
+        "description": "Shop iets frans... Puffer Ruched Tote bag at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "iets frans... Black Blake Mesh Track Jacket",
+        "price": 62,
+        "description": "Shop iets frans... Black Blake Mesh Track Jacket at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "adidas 3-Stripes Baby T-Shirt",
+        "price": 16,
+        "description": "Shop adidas 3-Stripes Baby T-Shirt at Urban Outfitters today. We carry all the latest styles, colours and brands for you to choose from right here."
+      },
+      {
+        "name": "adidas White 3-Stripes Baby T-Shirt",
+        "price": 20,
+        "description": "adidas White 3-Stripes Baby T-Shirt"
+      },
+      {
+        "name": "UO Lucky Balls Baby T-Shirt",
+        "price": 26,
+        "description": "UO Lucky Balls Baby T-Shirt"
+      },
+      {
+        "name": "UO Sexy Heart Slogan Baby T-Shirt",
+        "price": 26,
+        "description": "UO Sexy Heart Slogan Baby T-Shirt"
+      },
+      {
+        "name": "adidas Red 3-Stripes Baby T-Shirt",
+        "price": 20,
+        "description": "adidas Red 3-Stripes Baby T-Shirt"
+      },
+      {
+        "name": "New Balance Athletics Crop T-Shirt",
+        "price": 35,
+        "description": "New Balance Athletics Crop T-Shirt"
+      },
+      {
+        "name": "FILA x HAILEY White Baby T-Shirt",
+        "price": 35,
+        "description": "FILA x HAILEY White Baby T-Shirt"
+      },
+      {
+        "name": "Kickers Ecru Logo T-Shirt",
+        "price": 25,
+        "description": "Kickers Ecru Logo T-Shirt"
+      },
+      {
+        "name": "Carhartt Eldon T-Shirt",
+        "price": 40,
+        "description": "Carhartt Eldon T-Shirt"
+      },
+      {
+        "name": "PUMA Future Baby T-Shirt",
+        "price": 25,
+        "description": "PUMA Future Baby T-Shirt"
+      },
+      {
+        "name": "Von Dutch UO Exclusive White Ringer T-Shirt",
+        "price": 38,
+        "description": "Von Dutch UO Exclusive White Ringer T-Shirt"
+      },
+      {
+        "name": "Roxy UO Exclusive Ecru Baby T-Shirt",
+        "price": 30,
+        "description": "Roxy UO Exclusive Ecru Baby T-Shirt"
+      },
+      {
+        "name": "Roxy UO Exclusive Navy Orange T-Shirt",
+        "price": 30,
+        "description": "Roxy UO Exclusive Navy Orange T-Shirt"
+      },
+      {
+        "name": "True Religion V-Neck Crystal Baby T-Shirt",
+        "price": 39,
+        "description": "True Religion V-Neck Crystal Baby T-Shirt"
+      },
+      {
+        "name": "Dickies Maple Valley Regular T-Shirt",
+        "price": 25,
+        "description": "Dickies Maple Valley Regular T-Shirt"
+      },
+      {
+        "name": "GAP New Arch T-Shirt",
+        "price": 18,
+        "description": "GAP New Arch T-Shirt"
+      },
+      {
+        "name": "New Balance Athlete Linear Oversized T-Shirt",
+        "price": 35,
+        "description": "New Balance Athlete Linear Oversized T-Shirt"
+      },
+      {
+        "name": "Carhartt WIP T-Shirt",
+        "price": 45,
+        "description": "Carhartt WIP T-Shirt"
+      },
+      {
+        "name": "Out From Under Easy V-Neck Cami",
+        "price": 10,
+        "description": "Out From Under Easy V-Neck Cami"
+      },
+      {
+        "name": "Carhartt WIP Short Sleeve Pocket Heart T-Shirt",
+        "price": 40,
+        "description": "Carhartt WIP Short Sleeve Pocket Heart T-Shirt"
+      },
+      {
+        "name": "ADW UO Exclusive Dub Baby Tee",
+        "price": 54,
+        "description": "UO Exclusive, Top Rated, Color: Lavender, Fit: Regular, Size: S, M, L."
       },
       {
         "name": "1998 Applique Graphic Baby Tee",
-        "price": "$35.00",
+        "price": 44,
         "description": "Available in 2 colors."
       },
       {
-        "name": "Kimchi Blue Too Perfect Fries Graphic Ringer Baby Tee",
-        "price": "$25.00",
-        "description": "Available in 1 color."
-      },
-      {
-        "name": "Future State Sweet Animal Graphic Baby Tee",
-        "price": "$29.00",
-        "description": "Available in 2 colors."
-      },
-      {
-        "name": "BDG Too Perfect Join The Club Graphic Ringer Baby Tee",
-        "price": "$25.00",
-        "description": "Available in 1 color."
-      },
-      {
-        "name": "Saint Malo Graphic Seamed Raglan Baby Tee",
-        "price": "$35.00",
-        "description": "Available in 1 color."
-      },
-      {
-        "name": "NYC 1990 Applique Baby Tee",
-        "price": "$35.00",
-        "description": "Available in 5 colors."
-      },
-      {
-        "name": "Out From Under Perfect Pointelle Knit Boatneck Tee",
-        "price": "$25.00",
-        "description": "Available in 3 colors."
-      },
-      {
-        "name": "BDG Too Perfect Buen Apetito Graphic Ringer Baby Tee",
-        "price": "$25.00",
+        "name": "Jaded London Football Jersey Graphic Baby Tee",
+        "price": 104,
         "description": "Available in 1 color."
       },
       {
         "name": "Le Sport Graphic Fitted Baby Tee",
-        "price": "$35.00",
+        "price": 44,
         "description": "Available in 5 colors."
       },
       {
-        "name": "Kimchi Blue Willow Ice Cream Graphic Boatneck Baby Tee",
-        "price": "$29.00",
+        "name": "Future State Sweet Animal Graphic Baby Tee",
+        "price": 39,
+        "description": "Available in 2 colors."
+      },
+      {
+        "name": "Kimchi Blue Too Perfect Fries Graphic Ringer Baby Tee",
+        "price": 34,
         "description": "Available in 1 color."
       },
       {
+        "name": "Out From Under Perfect Pointelle Knit Boatneck Tee",
+        "price": 34,
+        "description": "Available in 3 colors."
+      },
+      {
         "name": "DAY The Cranberries Graphic Tee",
-        "price": "$39.00",
+        "price": 54,
+        "description": "Available in 1 color."
+      },
+      {
+        "name": "Kimchi Blue Willow Ice Cream Graphic Boatneck Baby Tee",
+        "price": 39,
         "description": "Available in 1 color."
       },
       {
         "name": "Palermo 88 Applique Graphic Notched Ringer Baby Tee",
-        "price": "$35.00",
+        "price": 44,
         "description": "Available in 1 color."
+      },
+      {
+        "name": "Lincoln University UO Exclusive Cropped Muscle Tee",
+        "price": 44,
+        "description": "Available in 1 color."
+      },
+      {
+        "name": "NYC 1990 Applique Baby Tee",
+        "price": 44,
+        "description": "Available in 5 colors."
       },
       {
         "name": "NYC 1990 Graphic Camo Baby Tee",
-        "price": "$35.00",
+        "price": 44,
         "description": "Available in 1 color."
       },
       {
-        "name": "97 NYC Applique Graphic Baby Tee",
-        "price": "$35.00",
-        "description": "Available in 3 colors."
-      },
-      {
         "name": "True Religion Horseshoe Crystal Graphic V-Neck Baby Tee",
-        "price": "$39.00",
+        "price": 54,
         "description": "Available in 2 colors."
       },
       {
         "name": "UO Too Perfect Santorini Graphic Baby Tee",
-        "price": "$29.00",
+        "price": 39,
         "description": "Available in 1 color."
       },
       {
-        "name": "Diesel T-Uncuties Graphic Ringer Baby Tee",
-        "price": "$195.00",
+        "name": "Saint Malo Graphic Seamed Raglan Baby Tee",
+        "price": 44,
+        "description": "Available in 1 color."
+      },
+      {
+        "name": "BDG Too Perfect Join The Club Graphic Ringer Baby Tee",
+        "price": 34,
         "description": "Available in 1 color."
       },
       {
         "name": "Boston Sports Baseball Graphic Ringer Baby Tee",
-        "price": "$29.00",
+        "price": 39,
         "description": "Available in 1 color."
       },
       {
         "name": "Detroit Motor Club Graphic Baby Tee",
-        "price": "$29.00",
+        "price": 39,
         "description": "Available in 2 colors."
       },
       {
-        "name": "BDG Zip-Up Bomber Jacket",
-        "price": "$119.00",
-        "description": "Shop BDG Zip-Up Bomber Jacket at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "Kimchi Blue Too Perfect Corndog Graphic Ringer Baby Tee",
+        "price": 34,
+        "description": "Available in 1 color."
       },
       {
-        "name": "Dickies Eisenhower Unlined Gas Jacket",
-        "price": "$79.00",
-        "description": "Dickies Eisenhower Unlined Gas Jacket available in 2 colors."
+        "name": "Tyler McGillivary Lovebird Graphic Baby Tee",
+        "price": 109,
+        "description": "Available in 1 color."
       },
       {
-        "name": "BDG Blake Camo Canvas Bomber Jacket",
-        "price": "$69.00 – $79.00",
-        "description": "BDG Blake Camo Canvas Bomber Jacket available in 4 colors."
+        "name": "AFRM Eliza Cowl Neck Tank Top",
+        "price": 89,
+        "description": "Shop AFRM Eliza Cowl Neck Tank Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "Sister Jane Bouquets Oversized Jacquard Bomber",
-        "price": "$29.99",
-        "description": "Sister Jane Bouquets Oversized Jacquard Bomber available in 1 color."
+        "name": "Sister Jane Dream Lady Sheer Lace Top",
+        "price": 159,
+        "description": "Shop Sister Jane Dream Lady Sheer Lace Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "iets frans… Harri Shrunken Track Jacket",
-        "price": "$65.00",
-        "description": "iets frans… Harri Shrunken Track Jacket available in 2 colors."
+        "name": "Jaded London Tatiana Studded Backless Halter Top",
+        "price": 109,
+        "description": "Shop Jaded London Tatiana Studded Backless Halter Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "FILA X HAILEY Sports Bra",
-        "price": "$50.00",
-        "description": "Shop FILA X HAILEY Sports Bra at Urban Outfitters today. Discover more selections just like this online or in-store."
+        "name": "Jaded London Ash Faux Leather Corset Top",
+        "price": 129,
+        "description": "Shop Jaded London Ash Faux Leather Corset Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "The North Face Movmynt Scoop Neck Sports Bra",
-        "price": "$45.00",
-        "description": "Shop The North Face Movmynt Scoop Neck Sports Bra at Urban Outfitters."
+        "name": "FILA X HAILEY Baby Tee",
+        "price": 59,
+        "description": "Shop FILA X HAILEY Baby Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "P.E Nation Vivid Sports Bra",
-        "price": "$70.00",
-        "description": "Shop P.E Nation Vivid Sports Bra at Urban Outfitters."
+        "name": "Fantastic Baby Vanjie Off-The-Shoulder Top",
+        "price": 84,
+        "description": "Shop Fantastic Baby Vanjie Off-The-Shoulder Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "FILA Mika Stripe Crisscross Bra Top",
-        "price": "$45.00",
-        "description": "Shop FILA Mika Stripe Crisscross Bra Top at Urban Outfitters."
+        "name": "FILA X HAILEY Baby Tank",
+        "price": 104,
+        "description": "Shop FILA X HAILEY Baby Tank at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "Splits59 Airweight Bra Top",
-        "price": "$82.00",
-        "description": "Shop Splits59 Airweight Bra Top at Urban Outfitters."
+        "name": "by.DYLN Alix Denim Zip-Front Strapless Corset Top",
+        "price": 114,
+        "description": "Shop by.DYLN Alix Denim Zip-Front Strapless Corset Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "The North Face Refina Longline Sports Bra",
-        "price": "$60.00",
-        "description": "Shop The North Face Refina Longline Sports Bra at Urban Outfitters."
+        "name": "Strut This Dax Tee",
+        "price": 94,
+        "description": "Shop Strut This Dax Tee at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
-        "name": "Strut This Chase Mesh Panel Scoop Neck Sports Bra",
-        "price": "$75.00",
-        "description": "Shop Strut This Chase Mesh Panel Scoop Neck Sports Bra at Urban Outfitters."
-      },
-      {
-        "name": "Strut This Rocky Sports Bra",
-        "price": "$70.00",
-        "description": "Shop Strut This Rocky Sports Bra at Urban Outfitters."
-      },
-      {
-        "name": "Janji Oasis Pace Sports Bra",
-        "price": "$58.00",
-        "description": "Shop Janji Oasis Pace Sports Bra at Urban Outfitters."
-      },
-      {
-        "name": "Splits59 Bianca Rigor Bra",
-        "price": "$82.00",
-        "description": "Shop Splits59 Bianca Rigor Bra at Urban Outfitters."
-      },
-      {
-        "name": "THE UPSIDE Peached Jade Sports Bra",
-        "price": "$90.00",
-        "description": "Shop THE UPSIDE Peached Jade Sports Bra at Urban Outfitters."
-      },
-      {
-        "name": "THE UPSIDE Solace Zoe Sports Bra",
-        "price": "$80.00",
-        "description": "Shop THE UPSIDE Solace Zoe Sports Bra at Urban Outfitters."
-      },
-      {
-        "name": "Janji Sapphire Long Bra",
-        "price": "$68.00",
-        "description": "Shop Janji Sapphire Long Bra at Urban Outfitters."
-      },
-      {
-        "name": "ASICS Core Logo Sports Bra",
-        "price": "$48.00",
-        "description": "Shop ASICS Core Logo Sports Bra at Urban Outfitters."
-      },
-      {
-        "name": "Janji Pace Sports Bra",
-        "price": "$58.00",
-        "description": "Shop Janji Pace Sports Bra at Urban Outfitters."
-      },
-      {
-        "name": "Janji Dunescape Mega Long Bra",
-        "price": "$74.00",
-        "description": "Shop Janji Dunescape Mega Long Bra at Urban Outfitters."
-      },
-      {
-        "name": "P.E Nation Restore Seamless Sports Bra",
-        "price": "$45.00",
-        "description": "Shop P.E Nation Restore Seamless Sports Bra at Urban Outfitters."
-      },
-      {
-        "name": "Flora Cotton Graphic Tee",
-        "price": "$29.00",
-        "description": "Shop Flora Cotton Graphic Tee at Urban Outfitters today. Discover more selections just like this online or in-store.  Shop your favorite brands and sign up for UO Rewards to receive 10% off your next purchase!"
-      },
-      {
-        "name": "Diesel R14 Washed Cotton Graphic Tee",
-        "price": "$90.00",
-        "description": "Shop Diesel R14 Washed Cotton Graphic Tee at Urban Outfitters."
-      },
-      {
-        "name": "Loser Machine Grandeur Logo Graphic Tee",
-        "price": "$35.00",
-        "description": "Shop Loser Machine Grandeur Logo Graphic Tee at Urban Outfitters."
-      },
-      {
-        "name": "Auto Services Graphic Thermal Long Sleeve Tee",
-        "price": "$45.00",
-        "description": "Shop Auto Services Graphic Thermal Long Sleeve Tee at Urban Outfitters."
-      },
-      {
-        "name": "Fruits & Vegetables Graphic Tee",
-        "price": "$29.00",
-        "description": "Shop Fruits & Vegetables Graphic Tee at Urban Outfitters."
-      },
-      {
-        "name": "Nike Hoops World Champs Graphic Tee",
-        "price": "$45.00",
-        "description": "Shop Nike Hoops World Champs Graphic Tee at Urban Outfitters."
-      },
-      {
-        "name": "Ruff Ryders Mesh Football Jersey Tee",
-        "price": "$65.00",
-        "description": "Shop Ruff Ryders Mesh Football Jersey Tee at Urban Outfitters."
-      },
-      {
-        "name": "Personality Slogan Graphic Tee",
-        "price": "$29.00",
-        "description": "Shop Personality Slogan Graphic Tee at Urban Outfitters."
-      },
-      {
-        "name": "Birds Of Condor Tijuana Golf Pocket Tee",
-        "price": "$39.00",
-        "description": "Shop Birds Of Condor Tijuana Golf Pocket Tee at Urban Outfitters."
-      },
-      {
-        "name": "Loser Machine Overdrive Long Sleeve Graphic Tee",
-        "price": "$75.00",
-        "description": "Shop Loser Machine Overdrive Long Sleeve Graphic Tee at Urban Outfitters."
-      },
-      {
-        "name": "Charli XCX UO Exclusive Brat Graphic Tee",
-        "price": "$35.00",
-        "description": "Shop Charli XCX UO Exclusive Brat Graphic Tee at Urban Outfitters."
-      },
-      {
-        "name": "Nirvana Sliver Washed Cotton Graphic Tee",
-        "price": "$29.00",
-        "description": "Shop Nirvana Sliver Washed Cotton Graphic Tee at Urban Outfitters."
-      },
-      {
-        "name": "Pro Standard UO Exclusive MLB Los Angeles Dodgers Team Logo Graphic Tee",
-        "price": "$39.00",
-        "description": "Shop Pro Standard UO Exclusive MLB Los Angeles Dodgers Team Logo Graphic Tee at Urban Outfitters."
-      },
-      {
-        "name": "No Doubt 1997 Tour Graphic Tee",
-        "price": "$35.00",
-        "description": "Shop No Doubt 1997 Tour Graphic Tee at Urban Outfitters."
-      },
-      {
-        "name": "adidas Impossible Is Nothing Graphic Tee",
-        "price": "$30.00",
-        "description": "Shop adidas Impossible Is Nothing Graphic Tee at Urban Outfitters."
-      },
-      {
-        "name": "Coney Island Picnic X Everlast UO Exclusive Cropped Tee",
-        "price": "$49.00",
-        "description": "Shop Coney Island Picnic X Everlast UO Exclusive Cropped Tee at Urban Outfitters."
-      },
-      {
-        "name": "OBEY Records Graphic Tee",
-        "price": "$36.00",
-        "description": "Shop OBEY Records Graphic Tee at Urban Outfitters."
-      },
-      {
-        "name": "Coney Island Picnic Body Shop Graphic Muscle Tee",
-        "price": "$35.00",
-        "description": "Shop Coney Island Picnic Body Shop Graphic Muscle Tee at Urban Outfitters."
-      },
-      {
-        "name": "Umbro Printed Long Sleeve Jersey Tee",
-        "price": "$80.00",
-        "description": "Shop Umbro Printed Long Sleeve Jersey Tee at Urban Outfitters."
-      },
-      {
-        "name": "Bear With Me Short Sleeve Cotton Graphic Tee",
-        "price": "$39.00",
-        "description": "Shop Bear With Me Short Sleeve Cotton Graphic Tee at Urban Outfitters."
-      },
-      {
-        "name": "The North Face 40th Anniversary Mountain Jacket Graphic Tee",
-        "price": "$50.00",
-        "description": "Shop The North Face 40th Anniversary Mountain Jacket Graphic Tee at Urban Outfitters."
-      },
-      {
-        "name": "Vintage By Madalyn Newell 1940s Midi Dress",
-        "price": "$90.00",
-        "description": "One-of-a-Kind Vintage, Color: Grey, Fit: Regular, Size: ONE SIZE, Last one in stock!"
-      },
-      {
-        "name": "Vintage Sequin Embellished Halter Prom Dress",
-        "price": "$69.00",
-        "description": "Vintage Sequin Embellished Halter Prom Dress, 1 color available."
-      },
-      {
-        "name": "Vintage By Madalyn Newell Lace Slip Dress",
-        "price": "$80.00",
-        "description": "Vintage By Madalyn Newell Lace Slip Dress, 1 color available."
-      },
-      {
-        "name": "Vintage One-Shoulder Prom Dress",
-        "price": "$89.00",
-        "description": "Vintage One-Shoulder Prom Dress, 1 color available."
-      },
-      {
-        "name": "Vintage Y2k Black & White Printed Ruffled Midi Dress",
-        "price": "$89.00",
-        "description": "Vintage Y2k Black & White Printed Ruffled Midi Dress, 1 color available."
-      },
-      {
-        "name": "Another Girl Tailored Pinstripe Pleated-Hem Mini Dress",
-        "price": "$99.00",
-        "description": "Another Girl Tailored Pinstripe Pleated-Hem Mini Dress, 1 color available."
-      },
-      {
-        "name": "Kimchi Blue Nina Button-Down Puff Sleeve Mini Dress",
-        "price": "$59.00",
-        "description": "Kimchi Blue Nina Button-Down Puff Sleeve Mini Dress, 3 colors available."
-      },
-      {
-        "name": "Jaded London Asteria Asymmetrical High-Low Maxi Dress",
-        "price": "$165.00",
-        "description": "Jaded London Asteria Asymmetrical High-Low Maxi Dress, 1 color available."
-      },
-      {
-        "name": "Vintage Y2k Glittered Printed Midi Slip Dress",
-        "price": "$98.00",
-        "description": "Vintage Y2k Glittered Printed Midi Slip Dress, 1 color available."
-      },
-      {
-        "name": "Vintage Rhinestone Crisscross Strap Open-Back Prom Dress",
-        "price": "$69.00",
-        "description": "Vintage Rhinestone Crisscross Strap Open-Back Prom Dress, 1 color available."
-      },
-      {
-        "name": "Urban Renewal Remade Flannel Hoodie Dress",
-        "price": "$79.00",
-        "description": "Urban Renewal Remade Flannel Hoodie Dress, 1 color available."
-      },
-      {
-        "name": "Amy Lynn Puffball Midi Dress",
-        "price": "$125.00",
-        "description": "Amy Lynn Puffball Midi Dress, 6 colors available."
-      },
-      {
-        "name": "Motel Keitha Square Neck Jersey Knit Mini Dress",
-        "price": "$57.00",
-        "description": "Motel Keitha Square Neck Jersey Knit Mini Dress, 1 color available."
-      },
-      {
-        "name": "AFRM Nissa Lace Trim Mesh Midi Dress",
-        "price": "$98.00",
-        "description": "AFRM Nissa Lace Trim Mesh Midi Dress, 2 colors available."
-      },
-      {
-        "name": "Vintage Rhinestone Embellished Empire Waist Prom Dress",
-        "price": "$69.00",
-        "description": "Vintage Rhinestone Embellished Empire Waist Prom Dress, 1 color available."
-      },
-      {
-        "name": "Rare London Corset Halter Midi Dress",
-        "price": "$125.00",
-        "description": "Rare London Corset Halter Midi Dress, 1 color available."
-      },
-      {
-        "name": "Vintage By Madalyn Newell Ann Taylor Midi Skirt",
-        "price": "$64.00",
-        "description": "Vintage By Madalyn Newell Ann Taylor Midi Skirt, 1 color available."
-      },
-      {
-        "name": "Vintage By Madalyn Newell Lace Slip Dress",
-        "price": "$80.00",
-        "description": "One-of-a-Kind Vintage, Color: Black, Fit: Regular, Size: ONE SIZE, Last one in stock!"
-      },
-      {
-        "name": "Vintage By Little Runaway Beaded Mini Dress",
-        "price": "$150.00",
-        "description": ""
-      },
-      {
-        "name": "AFRM Josette Keyhole Cut-Out Lace Trim Midi Dress",
-        "price": "$118.00",
-        "description": ""
-      },
-      {
-        "name": "UO Alana Cowl Halter Satin Slip Mini Dress",
-        "price": "$49.00",
-        "description": ""
-      },
-      {
-        "name": "Out From Under Forever Yours Sheer Lace Slip",
-        "price": "$59.00",
-        "description": ""
-      },
-      {
-        "name": "Out From Under Mon Amor Lace-Strap Mesh Slip",
-        "price": "$45.00",
-        "description": ""
-      },
-      {
-        "name": "Thistle + Spire Eden Lace-Up Hanky Hem Slip",
-        "price": "$118.00",
-        "description": ""
-      },
-      {
-        "name": "Vintage By Little Runaway Snake Print Maxi Dress",
-        "price": "$85.00",
-        "description": ""
-      },
-      {
-        "name": "Whimsy + Row Bonnie Slip Maxi Dress",
-        "price": "$236.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Liz Lace Trim Satin Slip Midi Dress",
-        "price": "$69.00",
-        "description": ""
-      },
-      {
-        "name": "4SI3NNA Hattie Slip Midi Dress",
-        "price": "$24.99",
-        "description": "$118.00"
-      },
-      {
-        "name": "For Love & Lemons Val Heart Cups Slip Maxi Dress",
-        "price": "$289.00",
-        "description": ""
-      },
-      {
-        "name": "Vintage By Little Runaway Pink Chiffon Sleeve Maxi Dress",
-        "price": "$70.00",
-        "description": ""
-      },
-      {
-        "name": "Out From Under Justine Sheer Lace-Trim Hanky Hem Slip",
-        "price": "$49.00",
-        "description": ""
-      },
-      {
-        "name": "UO Bella Bow-Back Satin Mini Dress",
-        "price": "$59.00",
-        "description": ""
-      },
-      {
-        "name": "Amy Lynn Rue Cowl Neck Satin Maxi Dress",
-        "price": "$109.00",
-        "description": ""
-      },
-      {
-        "name": "Vintage By Little Runaway Blue Tropical Floral Mini Dress",
-        "price": "$80.00",
-        "description": ""
-      },
-      {
-        "name": "UO Mallory Cowl Neck Slip Dress",
-        "price": "$14.99",
-        "description": "$49.00"
-      },
-      {
-        "name": "Kimchi Blue Marcella Embroidered Tie-Back Babydoll Mini Dress",
-        "price": "$69.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Beverly Halter Fit-And-Flare Mini Dress",
-        "price": "$79.00",
-        "description": ""
-      },
-      {
-        "name": "UO Hyacinth Lace Spliced Midi Dress",
-        "price": "$99.00",
-        "description": ""
-      },
-      {
-        "name": "Motel Soyata Ditsy Floral Mini Dress",
-        "price": "$52.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Mabel Corset Seam Fit-And-Flare Mini Dress",
-        "price": "$49.00",
-        "description": ""
-      },
-      {
-        "name": "Motel Lovita Polka Dot Mini Dress",
-        "price": "$73.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Bianca Drop Waist Midi Dress",
-        "price": "$69.00",
-        "description": ""
-      },
-      {
-        "name": "Motel Starrin Drop Waist Vest Mini Dress",
-        "price": "$78.00",
-        "description": ""
-      },
-      {
-        "name": "Bardot Delphi Hourglass Mini Dress",
-        "price": "$149.00",
-        "description": ""
-      },
-      {
-        "name": "UO Angelique Fit-And-Flare Strapless Denim Mini Dress",
-        "price": "$69.00",
-        "description": ""
-      },
-      {
-        "name": "Another Girl Check High Neck Mini Dress",
-        "price": "$115.00",
-        "description": ""
-      },
-      {
-        "name": "Glamorous Lace Halter Mini Dress",
-        "price": "$119.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Cate Y-Neck Halter Mini Dress",
-        "price": "$49.00",
-        "description": ""
-      },
-      {
-        "name": "Glamorous Drop-Waist Corset Lace-Trim Mini Dress",
-        "price": "$138.00",
-        "description": ""
-      },
-      {
-        "name": "Daisy Street Collared Denim Babydoll Mini Dress",
-        "price": "$54.00",
-        "description": ""
-      },
-      {
-        "name": "Glamorous Strapless V-Waist Cotton-Blend Mini Dress",
-        "price": "$87.00",
-        "description": ""
-      },
-      {
-        "name": "Kiss The Sky Belle Tie-Back Corset Mini Dress",
-        "price": "$60.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Hunter Floral Embroidered Keyhole Cutout Midi Dress",
-        "price": "$109.00",
-        "description": ""
-      },
-      {
-        "name": "Mitchell & Ness Chicago Bulls Scottie Pippen Basketball Jersey",
-        "price": "39.99",
-        "description": "Shop Mitchell & Ness Chicago Bulls Scottie Pippen Basketball Jersey at Urban Outfitters today. Discover more selections just like this online or in-store.  Shop your favorite brands and sign up for UO Rewards to receive 10% off your next purchase!"
-      },
-      {
-        "name": "Converse Men's Chuck 70 Marquis High Top Sneaker",
-        "price": "$90.00",
-        "description": "Shop Converse Men's Chuck 70 Marquis High Top Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store.  Shop your favorite brands and sign up for UO Rewards to receive 10% off your next purchase!"
-      },
-      {
-        "name": "Converse Men's Chuck 70 Core High Top Sneaker",
-        "price": "$90.00",
-        "description": "Shop Converse Men's Chuck 70 Core High Top Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "On Men's Cloud 6 Sneaker",
-        "price": "$150.00",
-        "description": "Shop On Men's Cloud 6 Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "Merrell Men's Agility Peak 5 Hiking Sneaker",
-        "price": "$140.00",
-        "description": "Shop Merrell Men's Agility Peak 5 Hiking Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "Converse Women's Chuck Taylor All Star Utility Lift Platform Sneaker",
-        "price": "$80.00",
-        "description": "Shop Converse Women's Chuck Taylor All Star Utility Lift Platform Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "Converse Chuck Taylor All Star Tom & Jerry Pattern High Top Sneaker",
-        "price": "$100.00",
-        "description": "Shop Converse Chuck Taylor All Star Tom & Jerry Pattern High Top Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "Converse Men's One Star Pro AS Sneaker",
-        "price": "$75.00",
-        "description": "Shop Converse Men's One Star Pro AS Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "The North Face Glenclyffe Urban Low Shoe",
-        "price": "$129.00 – $130.00",
-        "description": "Shop The North Face Glenclyffe Urban Low Shoe at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "SAYE Modelo '89 Hi Vegan Sneakers",
-        "price": "$169.00",
-        "description": "Shop SAYE Modelo '89 Hi Vegan Sneakers at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "New Balance Men's 2002R Sneaker",
-        "price": "$145.00",
-        "description": "Shop New Balance Men's 2002R Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "Saucony Men's 80 Running Sneaker",
-        "price": "$90.00",
-        "description": "Shop Saucony Men's 80 Running Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "Keen Men's Jasper Suede Sneaker",
-        "price": "$130.00",
-        "description": "Shop Keen Men's Jasper Suede Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "ASICS Men's GEL-1130 Sneaker",
-        "price": "$100.00",
-        "description": "Shop ASICS Men's GEL-1130 Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "New Balance Men's 530 Sneaker",
-        "price": "$100.00",
-        "description": "Shop New Balance Men's 530 Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "ASICS Men's Skyhand OG Sportstyle Sneaker",
-        "price": "$100.00",
-        "description": "Shop ASICS Men's Skyhand OG Sportstyle Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "New Balance Men's 740 Athletic Sneaker",
-        "price": "$110.00",
-        "description": "Shop New Balance Men's 740 Athletic Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "Saucony Men's Grid Jazz 9 Sneaker",
-        "price": "$120.00",
-        "description": "Shop Saucony Men's Grid Jazz 9 Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "New Balance Men's 725v1 Sneaker",
-        "price": "$110.00",
-        "description": "Shop New Balance Men's 725v1 Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "Saucony Men's ProGrid Triumph 4 Sneaker",
-        "price": "$150.00",
-        "description": "Shop Saucony Men's ProGrid Triumph 4 Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "New Balance Men's T500 Sneaker",
-        "price": "$110.00",
-        "description": "Shop New Balance Men's T500 Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "Converse Men's One Star Pro Suede Sneaker",
-        "price": "$75.00",
-        "description": "Shop Converse Men's One Star Pro Suede Sneaker at Urban Outfitters today. Discover more selections just like this online or in-store."
-      },
-      {
-        "name": "Nike UO Exclusive Cropped Swim Shirt",
-        "price": "$55.00",
-        "description": ""
-      },
-      {
-        "name": "Without Walls Patterned Side Split Short",
-        "price": "$49.00",
-        "description": ""
-      },
-      {
-        "name": "Without Walls Seamed Training Tank Top",
-        "price": "$39.00",
-        "description": ""
-      },
-      {
-        "name": "Without Walls Paneled Nylon Trail Utility Pant",
-        "price": "$79.00",
-        "description": ""
-      },
-      {
-        "name": "Without Walls Washed Cotton Boxy Tee",
-        "price": "$39.00",
-        "description": ""
-      },
-      {
-        "name": "Without Walls Paneled Nylon Trail Utility Short",
-        "price": "$59.00",
-        "description": ""
-      },
-      {
-        "name": "Without Walls Sprinter Athletic Pant",
-        "price": "$59.00",
-        "description": ""
-      },
-      {
-        "name": "Roark Expeditions Graphic Tee",
-        "price": "$35.00",
-        "description": ""
-      },
-      {
-        "name": "Without Walls Logo Graphic Boxy Tee",
-        "price": "$39.00",
-        "description": ""
-      },
-      {
-        "name": "Roark Run Amok Mathis Active Long Sleeve Tee",
-        "price": "$59.00",
-        "description": ""
-      },
-      {
-        "name": "Roark JT Polar Fleece Crew Neck Sweatshirt",
-        "price": "$99.00",
-        "description": ""
-      },
-      {
-        "name": "Roark Run Amok Mathis Tie-Dye Active Tee",
-        "price": "$49.00",
-        "description": ""
-      },
-      {
-        "name": "Roark Run Amok Alta 5” Running Short",
-        "price": "$85.00",
-        "description": ""
-      },
-      {
-        "name": "Roark Run Amok 5” Running Short",
-        "price": "$66.00",
-        "description": ""
-      },
-      {
-        "name": "PRAISE No Thanks Graphic Tee",
-        "price": "$48.00",
-        "description": ""
-      },
-      {
-        "name": "Hermanos Koumori Runners Graphic Tee",
-        "price": "$90.00",
-        "description": ""
-      },
-      {
-        "name": "Hermanos Koumori Field Graphic Tank Top",
-        "price": "$90.00",
-        "description": ""
-      },
-      {
-        "name": "Hermanos Koumori Emotional Running Cutoff Muscle Tee",
-        "price": "$90.00",
-        "description": ""
-      },
-      {
-        "name": "Janji AFO Middle 5\" Running Short",
-        "price": "$64.00",
-        "description": ""
-      },
-      {
-        "name": "Hermanos Koumori Performance Half Zip Jacket",
-        "price": "$310.00",
-        "description": ""
-      },
-      {
-        "name": "Klättermusen Magne 2.0 Climbing Pant",
-        "price": "$250.00",
-        "description": ""
-      },
-      {
-        "name": "Without Walls Boxy Fit Stretch Tank Top",
-        "price": "$39.00",
-        "description": ""
-      },
-      {
-        "name": "PRAISE Music Sounds Better With Running Tie-Dye Tee",
-        "price": "$48.00",
-        "description": ""
-      },
-      {
-        "name": "Hermanos Koumori Dido Graphic Crew Neck Sweatshirt",
-        "price": "$130.00",
-        "description": ""
-      },
-      {
-        "name": "ASICS Fujitrail Waterproof Running Jacket",
-        "price": "$215.00",
-        "description": ""
-      },
-      {
-        "name": "Mountain Hardwear Summit Grid Half Zip Hoodie Sweatshirt",
-        "price": "$90.00",
-        "description": ""
-      },
-      {
-        "name": "ASICS  Fujitrail Performance Zip Up T Shirt",
-        "price": "$80.00",
-        "description": ""
-      },
-      {
-        "name": "Janji Runaround Half-Zip Hoodie Sweatshirt",
-        "price": "$96.00",
-        "description": ""
-      },
-      {
-        "name": "Roark Swoopy Boys Graphic Tee",
-        "price": "$35.00",
-        "description": ""
-      },
-      {
-        "name": "Klättermusen Brokk Light Down Vest",
-        "price": "$390.00",
-        "description": ""
-      },
-      {
-        "name": "Janji Transit Tech Pant",
-        "price": "$94.00",
-        "description": ""
-      },
-      {
-        "name": "Roark Run Amok House Of Darwin Active Graphic Tee",
-        "price": "$49.00",
-        "description": ""
-      },
-      {
-        "name": "PRAISE Backcountry Popover Jacket",
-        "price": "$98.00",
-        "description": ""
-      },
-      {
-        "name": "Klättermusen Lopt Zip Puffer Jacket",
-        "price": "$450.00",
-        "description": ""
-      },
-      {
-        "name": "Janji Run All Day Running Tee",
-        "price": "$62.00",
-        "description": ""
-      },
-      {
-        "name": "Hermanos Koumori Post Running High Graphic Tee",
-        "price": "$90.00",
-        "description": ""
-      },
-      {
-        "name": "Nike Dri-FIT Boxer Brief 3-Pack",
-        "price": "$43.00",
-        "description": ""
-      },
-      {
-        "name": "Hermanos Koumori High-Tech Sweat Short",
-        "price": "$105.00",
-        "description": ""
-      },
-      {
-        "name": "Roark Run Amok House Of Darwin Running Short",
-        "price": "$85.00",
-        "description": ""
-      },
-      {
-        "name": "Klättermusen Torre Boxy Fit Tee",
-        "price": "$90.00",
-        "description": ""
-      },
-      {
-        "name": "New Balance Tournament Athletic Logo Short",
-        "price": "$60.00",
-        "description": ""
-      },
-      {
-        "name": "Roark Run Amok Serrano 5” Running Short",
-        "price": "$69.00",
-        "description": ""
-      },
-      {
-        "name": "Roark Happy Camper Short",
-        "price": "$75.00",
-        "description": ""
-      },
-      {
-        "name": "Ten Thousand Interval Unlined Short",
-        "price": "$68.00",
-        "description": ""
-      },
-      {
-        "name": "Roark Run Amok 5” Running Short",
-        "price": "$65.00",
-        "description": ""
-      },
-      {
-        "name": "ASICS  Fujitrail™ Running Short",
-        "price": "$55.00",
-        "description": ""
-      },
-      {
-        "name": "Barney Cools Explorer Utility Short",
-        "price": "$75.00",
-        "description": ""
-      },
-      {
-        "name": "Hermanos Koumori Paneled Column Track Pant",
-        "price": "$250.00",
-        "description": ""
-      },
-      {
-        "name": "Klättermusen Alv Insulated Hooded Jacket",
-        "price": "$400.00",
-        "description": ""
-      },
-      {
-        "name": "Hermanos Koumori Multi Tezontle Running Short",
-        "price": "$160.00",
-        "description": ""
-      },
-      {
-        "name": "Run Amok Mathis Active Graphic Tee",
-        "price": "$49.00",
-        "description": ""
-      },
-      {
-        "name": "Ten Thousand Lightweight Tank Top",
-        "price": "$58.00",
-        "description": ""
-      },
-      {
-        "name": "Roark Run Amok Bless Up Short Sleeve Trail Shirt",
-        "price": "$89.00",
-        "description": ""
-      },
-      {
-        "name": "Roark Run Amok Bless Up Patterned Short Sleeve Shirt",
-        "price": "$89.00",
-        "description": ""
-      },
-      {
-        "name": "Without Walls Tech Fleece Anorak Hoodie Sweatshirt",
-        "price": "$49.99",
-        "description": ""
-      },
-      {
-        "name": "PRAISE Running Causes Mindfulness Tie-Dye Tee",
-        "price": "$34.99",
-        "description": ""
-      },
-      {
-        "name": "Klättermusen Alte 3.0 Insulated Jacket",
-        "price": "$499.99",
-        "description": ""
-      },
-      {
-        "name": "Without Walls Seamed Training Tank Top",
-        "price": "$24.99",
-        "description": ""
-      },
-      {
-        "name": "Marmot Coastal Hoodie Sweatshirt",
-        "price": "$34.99",
-        "description": ""
-      },
-      {
-        "name": "PRAISE Motion 2.5” Double Layer Short",
-        "price": "$54.99",
-        "description": ""
-      },
-      {
-        "name": "Janji Boreal Fleece Running Tight",
-        "price": "$94.99",
-        "description": ""
-      },
-      {
-        "name": "Klättermusen Skjold Relaxed Fit Pant",
-        "price": "$204.99",
-        "description": ""
-      },
-      {
-        "name": "Without Walls Trail Belted Utility Pant",
-        "price": "$59.99",
-        "description": ""
-      },
-      {
-        "name": "Klättermusen Skoll Zip Fleece Jacket",
-        "price": "$359.99",
-        "description": ""
-      },
-      {
-        "name": "Without Walls Vert Walls Graphic Tee",
-        "price": "$24.99",
-        "description": ""
-      },
-      {
-        "name": "Klättermusen Hugin Zip Hooded Jacket",
-        "price": "$184.99",
-        "description": ""
-      },
-      {
-        "name": "Without Walls Tech Fleece Sweatpant",
-        "price": "$44.99",
-        "description": ""
-      },
-      {
-        "name": "Roark Run Amok Mathis Core Graphic Tee",
-        "price": "$29.99",
-        "description": ""
-      },
-      {
-        "name": "Janji AFO Patterned Middle 5\" Running Short",
-        "price": "$49.99",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Clara Mini Dress",
-        "price": "£64.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Aria Babydoll Dress",
-        "price": "£49.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Mia Low Back Stripe Babydoll Dress",
-        "price": "£49.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Bandeau Puffball Midi Dress",
-        "price": "£58.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Sienna Maxi Dress",
-        "price": "£59.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Gabriette Drop Waist Maxi Dress",
-        "price": "£66.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Rosie Romper",
-        "price": "£46.00",
-        "description": ""
-      },
-      {
-        "name": "UO Beverly Fit & Flare Mini Dress",
-        "price": "£59.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Primrose Romper",
-        "price": "£46.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Gabriette Drop Waist Mini Dress",
-        "price": "£48.00",
-        "description": ""
-      },
-      {
-        "name": "Out From Under Cabot Jumpsuit",
-        "price": "£45.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Renee Smocked Maxi Dress",
-        "price": "£59.00",
-        "description": ""
-      },
-      {
-        "name": "Kiss The Sky Sardinia Maxi Dress",
-        "price": "£55.00",
-        "description": ""
-      },
-      {
-        "name": "Kiss The Sky UO Exclusive Rose Maxi Dress",
-        "price": "£58.00",
-        "description": ""
-      },
-      {
-        "name": "Kiss The Sky UO Exclusive Villa Mini Dress",
-        "price": "£52.00",
-        "description": ""
-      },
-      {
-        "name": "Out From Under Cabot Romper",
-        "price": "£35.00",
-        "description": ""
-      },
-      {
-        "name": "Light Before Dark Bex Printed Midi Slip Dress",
-        "price": "£62.00",
-        "description": ""
-      },
-      {
-        "name": "VRG GRL Discoteca Mini Dress",
-        "price": "£100.00",
-        "description": ""
-      },
-      {
-        "name": "Kiss The Sky UO Exclusive Mulberry Dress",
-        "price": "£26.00",
-        "description": "£38.00"
-      },
-      {
-        "name": "Kimchi Blue Aliah Mini Dress",
-        "price": "£46.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Sofia Smocked Tie-Front Bow Mini Dress",
-        "price": "£49.00",
-        "description": ""
-      },
-      {
-        "name": "Kiss The Sky UO Exclusive Petal Mini Dress",
-        "price": "£38.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Nina Mini Dress",
-        "price": "£39.00",
-        "description": ""
-      },
-      {
-        "name": "Love Triangle UO Exclusive Ingrid Maxi Dress",
-        "price": "£55.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Delaney Shift Dress",
-        "price": "£49.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Eden Hybrid Puffball Dress",
-        "price": "£56.00",
-        "description": ""
-      },
-      {
-        "name": "UO Angelique Fit & Flare Mini Dress",
-        "price": "£49.00",
-        "description": ""
-      },
-      {
-        "name": "Kiss The Sky UO Exclusive Ditsy Floral Midi Dress",
-        "price": "£57.00",
-        "description": ""
-      },
-      {
-        "name": "Kiss The Sky Fresco Maxi Dress",
-        "price": "£50.00",
-        "description": ""
-      },
-      {
-        "name": "Silence + Noise Myla Off The Shoulder Mini Dress",
-        "price": "£44.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Faye Button Down Midi Dress",
-        "price": "£59.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Scarlet Midi Dress",
-        "price": "£49.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Marcella Embroidered Tie-Back Babydoll Mini Dress",
-        "price": "£49.00",
-        "description": ""
-      },
-      {
-        "name": "BDG Iris Smocked Halterneck Dress",
-        "price": "£49.00",
-        "description": ""
-      },
-      {
-        "name": "VRG GRL Tia Mini Dress",
-        "price": "£100.00",
-        "description": ""
-      },
-      {
-        "name": "BDG Juliana Smocked Tie-Back Mini Dress",
-        "price": "£39.00",
-        "description": ""
-      },
-      {
-        "name": "Kiss The Sky UO Exclusive Camille Dress",
-        "price": "£42.00",
-        "description": ""
-      },
-      {
-        "name": "Love Triangle Belle Bias Midi Dress",
-        "price": "£55.00",
-        "description": ""
-      },
-      {
-        "name": "Motel Hepzhi Mini Dress",
-        "price": "£42.00",
-        "description": ""
-      },
-      {
-        "name": "Love Triangle Fleur Maxi Dress",
-        "price": "£75.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Blossom Slip Dress",
-        "price": "£64.00",
-        "description": ""
-      },
-      {
-        "name": "Kiss The Sky UO Exclusive Malta Dress",
-        "price": "£45.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Alice Lace Mini Dress",
-        "price": "£52.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Martina Broderie Midi Dress",
-        "price": "£59.00",
-        "description": ""
-      },
-      {
-        "name": "UO Lucia Trapeze Mini Dress",
-        "price": "£39.00",
-        "description": ""
-      },
-      {
-        "name": "Kiss The Sky UO Exclusive Juliette Maxi Dress",
-        "price": "£48.00",
-        "description": ""
-      },
-      {
-        "name": "Levi's XL Overalls",
-        "price": "£130.00",
-        "description": ""
-      },
-      {
-        "name": "Silence + Noise Destin Long Sleeve Mini Dress",
-        "price": "£49.00",
-        "description": ""
-      },
-      {
-        "name": "Kiss The Sky UO Exclusive Piper Mini Dress",
-        "price": "£45.00",
-        "description": ""
-      },
-      {
-        "name": "UO Monica One Shoulder Romper",
-        "price": "£42.00",
-        "description": ""
-      },
-      {
-        "name": "UO Molly Cupro Jumpsuit",
-        "price": "£39.00",
-        "description": "£49.00"
-      },
-      {
-        "name": "Kimchi Blue Martina Midi Dress",
-        "price": "£49.00",
-        "description": ""
-      },
-      {
-        "name": "Silence + Noise Eliza Drop Waist Midi Dress",
-        "price": "£52.00",
-        "description": ""
-      },
-      {
-        "name": "Love Triangle Colette Mini Dress",
-        "price": "£64.00",
-        "description": ""
-      },
-      {
-        "name": "Silence + Noise Nancy Mesh Ruched Mini Dress",
-        "price": "£42.00",
-        "description": ""
-      },
-      {
-        "name": "Silence + Noise Peyton Halterneck Denim Mini Dress",
-        "price": "£58.00",
-        "description": ""
-      },
-      {
-        "name": "Kiss The Sky UO Exclusive Catelonia Mini Dress",
-        "price": "£38.00",
-        "description": ""
-      },
-      {
-        "name": "UO Alana Cowl Satin Mini Dress",
-        "price": "£32.00",
-        "description": ""
-      },
-      {
-        "name": "VRG GRL Alessa Mini Dress",
-        "price": "£100.00",
-        "description": ""
-      },
-      {
-        "name": "Kiss The Sky UO Exclusive Daisy Mini Dress",
-        "price": "£44.00",
-        "description": ""
-      },
-      {
-        "name": "UO Sammie Lace Mini Dress",
-        "price": "£69.00",
-        "description": ""
-      },
-      {
-        "name": "BDG Je T'aime Stripe Mini Dress",
-        "price": "£29.00",
-        "description": ""
-      },
-      {
-        "name": "Silence + Noise Structured Pinafore Mini Dress",
-        "price": "£46.00",
-        "description": ""
-      },
-      {
-        "name": "Silence + Noise Juliette Dress",
-        "price": "£39.00",
-        "description": ""
-      },
-      {
-        "name": "Love Triangle UO Exclusive Amelie Midaxi Dress",
-        "price": "£48.00",
-        "description": ""
-      },
-      {
-        "name": "Out From Under Cotton Compression Boatneck Tee",
-        "price": "CA$34.00",
-        "description": ""
-      },
-      {
-        "name": "Out From Under Cotton Compression Layered Cami",
-        "price": "CA$34.00",
-        "description": ""
-      },
-      {
-        "name": "BDG Spill The Short Sleeve Tee",
-        "price": "CA$24.00",
-        "description": ""
-      },
-      {
-        "name": "Silence + Noise Camellia Mesh Halter Top",
-        "price": "CA$24.00",
-        "description": ""
-      },
-      {
-        "name": "BDG Universal Boxy Tee",
-        "price": "CA$24.00",
-        "description": ""
-      },
-      {
-        "name": "Out From Under Angie Pointelle Cami",
-        "price": "CA$24.00",
-        "description": ""
-      },
-      {
-        "name": "BDG Too Perfect V Neck Tee",
-        "price": "CA$24.00",
-        "description": ""
-      },
-      {
-        "name": "Out From Under Je T'aime Mesh Cropped Cami",
-        "price": "CA$39.00",
-        "description": ""
-      },
-      {
-        "name": "BDG Carla Sweetheart Neckline Ribbed Knit Tube Top",
-        "price": "CA$24.00 – CA$34.00",
-        "description": ""
-      },
-      {
-        "name": "Out From Under Off-The-Shoulder Banded Hem Tee",
-        "price": "CA$34.00",
-        "description": ""
-      },
-      {
-        "name": "Out From Under Plunge Tapestry Jacquard Seamless Knit Cami",
-        "price": "CA$34.00",
-        "description": ""
-      },
-      {
-        "name": "Silence + Noise Coyote Cowl Neck Halter Top",
-        "price": "CA$39.00",
-        "description": ""
-      },
-      {
-        "name": "BDG Too Perfect Short Sleeve Tee",
-        "price": "CA$24.00",
-        "description": ""
-      },
-      {
-        "name": "BDG Square Neck Tank Top",
-        "price": "CA$24.00 – CA$34.00",
-        "description": ""
-      },
-      {
-        "name": "Silence + Noise Lara Cowl Neck Top",
-        "price": "CA$39.00",
-        "description": ""
-      },
-      {
-        "name": "BDG Joanna Ribbed Knit Halter Top",
-        "price": "CA$24.00 – CA$34.00",
-        "description": ""
-      },
-      {
-        "name": "BDG Universal Shrunken Tee",
-        "price": "CA$24.00",
-        "description": ""
-      },
-      {
-        "name": "BDG Tobi Oversized Crew Neck Tee",
-        "price": "CA$24.00",
-        "description": ""
-      },
-      {
-        "name": "Kimchi Blue Kori Lace Tube Top",
-        "price": "CA$24.00",
-        "description": ""
-      },
-      {
-        "name": "BDG Colby Babydoll Tunic Tank Top",
-        "price": "CA$39.00",
-        "description": ""
-      },
-      {
-        "name": "Silence + Noise Club Classic Cropped Halter Top",
-        "price": "CA$39.00",
-        "description": ""
-      },
-      {
-        "name": "BDG Brooke Double Layer Cami",
-        "price": "CA$39.00",
-        "description": ""
-      },
-      {
-        "name": "Out From Under Bec Pinch Front Fitted Cami",
-        "price": "CA$24.00",
-        "description": ""
-      },
-      {
-        "name": "Out From Under Rebel Raw-Edge Oversized Tee",
-        "price": "CA$39.00",
-        "description": ""
-      },
-      {
-        "name": "BDG Carmin Twofer Ribbed Knit Baby Tee",
-        "price": "CA$39.00",
-        "description": ""
-      },
-      {
-        "name": "BDG Sarah Off-The-Shoulder Cropped Tee",
-        "price": "CA$39.00",
-        "description": ""
+        "name": "Out From Under Talia Ribbed Seamless Knit Bra Top",
+        "price": 20,
+        "description": "Shop Out From Under Talia Ribbed Seamless Knit Bra Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
       },
       {
         "name": "Silence + Noise Good Luck Peplum Cami",
-        "price": "CA$39.00",
+        "price": 39,
+        "description": "Shop Silence + Noise Good Luck Peplum Cami at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kimchi Blue Kori Lace Tube Top",
+        "price": 24,
+        "description": "Shop Kimchi Blue Kori Lace Tube Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Silence + Noise Coyote Cowl Neck Halter Top",
+        "price": 39,
+        "description": "Shop Silence + Noise Coyote Cowl Neck Halter Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kimchi Blue Selia Eyelet Square Neck Long Sleeve Blouse",
+        "price": 99,
+        "description": "Shop Kimchi Blue Selia Eyelet Square Neck Long Sleeve Blouse at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Square Neck Tank Top",
+        "price": 24,
+        "description": "Shop BDG Square Neck Tank Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG MJ Ribbed Knit Slim Tank Top",
+        "price": 24,
+        "description": "Shop BDG MJ Ribbed Knit Slim Tank Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Out From Under Roux Seamless Long Sleeve Top",
+        "price": 54,
+        "description": "Shop Out From Under Roux Seamless Long Sleeve Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kimchi Blue Farrah Plunge V-Neck Halter Top",
+        "price": 54,
+        "description": "Shop Kimchi Blue Farrah Plunge V-Neck Halter Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "P.E Nation Forward Crop Tank Top",
+        "price": 94,
+        "description": "Shop P.E Nation Forward Crop Tank Top at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Ultimate Denim Mini Skirt",
+        "price": 40.99,
+        "description": "Shop BDG Ultimate Denim Mini Skirt at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Shaina Belted Denim Micro Mini Skort",
+        "price": 79,
+        "description": "BDG Shaina Belted Denim Micro Mini Skort."
+      },
+      {
+        "name": "Kimchi Blue Sienna Side-Tie Wrap Ruffle Mini Skort",
+        "price": 79,
+        "description": "Kimchi Blue Sienna Side-Tie Wrap Ruffle Mini Skort."
+      },
+      {
+        "name": "BDG Onna Denim Micro Skirt",
+        "price": 54,
+        "description": "BDG Onna Denim Micro Skirt."
+      },
+      {
+        "name": "UO Dariah Linen Micro Mini Skort",
+        "price": 64,
+        "description": "UO Dariah Linen Micro Mini Skort."
+      },
+      {
+        "name": "Kimchi Blue Anne Bubble Mini Skort",
+        "price": 64,
+        "description": "Kimchi Blue Anne Bubble Mini Skort."
+      },
+      {
+        "name": "True Religion Sadie Super T Flap Denim Mini Skirt",
+        "price": 154,
+        "description": "True Religion Sadie Super T Flap Denim Mini Skirt."
+      },
+      {
+        "name": "Basic Pleasure Mode Evie Graphic Print Midi Skirt",
+        "price": 129,
+        "description": "Basic Pleasure Mode Evie Graphic Print Midi Skirt."
+      },
+      {
+        "name": "BDG Sarah Chino Micro Skirt",
+        "price": 79,
+        "description": "BDG Sarah Chino Micro Skirt."
+      },
+      {
+        "name": "Jaded London Alana Denim Bubble Micro Skirt",
+        "price": 109,
+        "description": "Jaded London Alana Denim Bubble Micro Skirt."
+      },
+      {
+        "name": "Silence + Noise Kristie Low-Rise Hanky Hem Mini Skirt",
+        "price": 89,
+        "description": "Silence + Noise Kristie Low-Rise Hanky Hem Mini Skirt."
+      },
+      {
+        "name": "Kimchi Blue Laina Tiered Prairie Denim Midi Skirt",
+        "price": 99,
+        "description": "Kimchi Blue Laina Tiered Prairie Denim Midi Skirt."
+      },
+      {
+        "name": "BDG Bookworm Pleated Denim Midi Skirt",
+        "price": 89,
+        "description": "BDG Bookworm Pleated Denim Midi Skirt."
+      },
+      {
+        "name": "BDG Knee-Length Denim Midi Skirt",
+        "price": 89,
+        "description": "BDG Knee-Length Denim Midi Skirt."
+      },
+      {
+        "name": "BDG Gabby Chino Low-Rise Micro Skirt",
+        "price": 64,
+        "description": "BDG Gabby Chino Low-Rise Micro Skirt."
+      },
+      {
+        "name": "BDG Shaina Belted Linen Micro Mini Skort",
+        "price": 79,
+        "description": "BDG Shaina Belted Linen Micro Mini Skort."
+      },
+      {
+        "name": "Kimchi Blue Nicola Tie-Front Eyelet Lace Midi Skirt",
+        "price": 89,
+        "description": "Kimchi Blue Nicola Tie-Front Eyelet Lace Midi Skirt."
+      },
+      {
+        "name": "BDG Carpenter Low-Rise Camo Micro Skirt",
+        "price": 64,
+        "description": "BDG Carpenter Low-Rise Camo Micro Skirt."
+      },
+      {
+        "name": "Kimchi Blue Kendra Pleated Mini Skort",
+        "price": 79,
+        "description": "Kimchi Blue Kendra Pleated Mini Skort."
+      },
+      {
+        "name": "Kimchi Blue Belle Cotton Poplin Mini Skirt",
+        "price": 79,
+        "description": "Kimchi Blue Belle Cotton Poplin Mini Skirt."
+      },
+      {
+        "name": "Abrand Pleated Wrap Denim Mini Skirt",
+        "price": 169,
+        "description": "Abrand Pleated Wrap Denim Mini Skirt."
+      },
+      {
+        "name": "BDG Kayla Low-Rise Capri Jean",
+        "price": 84,
+        "description": "Shop BDG Kayla Low-Rise Capri Jean at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Abrand 99 Kendall Low Rise Straight Jean",
+        "price": 154,
+        "description": "Abrand 99 Kendall Low Rise Straight Jean"
+      },
+      {
+        "name": "BDG Kayla Printed Low-Rise Jean",
+        "price": 99,
+        "description": "BDG Kayla Printed Low-Rise Jean"
+      },
+      {
+        "name": "BDG Ozzy Loose Jean",
+        "price": 64,
+        "description": "BDG Ozzy Loose Jean"
+      },
+      {
+        "name": "True Religion Big T Flap Straight Leg Overall",
+        "price": 179,
+        "description": "True Religion Big T Flap Straight Leg Overall"
+      },
+      {
+        "name": "True Religion Ricky Relaxed Straight Jean",
+        "price": 179,
+        "description": "True Religion Ricky Relaxed Straight Jean"
+      },
+      {
+        "name": "BDG Sutton Studded Straight Leg Jean",
+        "price": 114,
+        "description": "BDG Sutton Studded Straight Leg Jean"
+      },
+      {
+        "name": "BDG Corset Tie-Waist Boot Leg Jean",
+        "price": 89,
+        "description": "BDG Corset Tie-Waist Boot Leg Jean"
+      },
+      {
+        "name": "True Religion Ricki Vintage Carpenter Cargo Straight Jean",
+        "price": 169,
+        "description": "True Religion Ricki Vintage Carpenter Cargo Straight Jean"
+      },
+      {
+        "name": "BDG High-Waisted Cowboy Jean",
+        "price": 79,
+        "description": "BDG High-Waisted Cowboy Jean"
+      },
+      {
+        "name": "BDG Kayla Embroidered Low-Rise Jean",
+        "price": 154,
+        "description": "BDG Kayla Embroidered Low-Rise Jean"
+      },
+      {
+        "name": "OBEY Leah Baggy II Jean",
+        "price": 164,
+        "description": "OBEY Leah Baggy II Jean"
+      },
+      {
+        "name": "Lioness Daydream Tie Up Jean",
+        "price": 144,
+        "description": "Lioness Daydream Tie Up Jean"
+      },
+      {
+        "name": "BDG Lennon Straight Jean",
+        "price": 89,
+        "description": "BDG Lennon Straight Jean"
+      },
+      {
+        "name": "True Religion Ricki Super QT Relaxed Straight Jean",
+        "price": 219,
+        "description": "True Religion Ricki Super QT Relaxed Straight Jean"
+      },
+      {
+        "name": "Basic Pleasure Mode Machina Boyfriend Jean",
+        "price": 154,
+        "description": "Basic Pleasure Mode Machina Boyfriend Jean"
+      },
+      {
+        "name": "BDG Kayla Patched Low-Rise Jean",
+        "price": 129,
+        "description": "BDG Kayla Patched Low-Rise Jean"
+      },
+      {
+        "name": "BDG Cleo Mid-Rise Straight Denim Capri",
+        "price": 84,
+        "description": "BDG Cleo Mid-Rise Straight Denim Capri"
+      },
+      {
+        "name": "Dickies Herndon Denim Utility Pant",
+        "price": 84,
+        "description": "Dickies Herndon Denim Utility Pant"
+      },
+      {
+        "name": "BDG Kit Scoop Neck Mini Dress",
+        "price": 26.99,
+        "description": "Shop BDG Kit Scoop Neck Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kimchi Blue Beverly Halter Fit-And-Flare Mini Dress",
+        "price": 99,
+        "description": "Shop Kimchi Blue Beverly Halter Fit-And-Flare Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Motel Lovita Polka Dot Mini Dress",
+        "price": 94,
+        "description": "Shop Motel Lovita Polka Dot Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "UO Angelique Fit-And-Flare Strapless Denim Mini Dress",
+        "price": 89,
+        "description": "Shop UO Angelique Fit-And-Flare Strapless Denim Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kimchi Blue Bianca Drop Waist Midi Dress",
+        "price": 89,
+        "description": "Shop Kimchi Blue Bianca Drop Waist Midi Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Glamorous Lace Halter Mini Dress",
+        "price": 154,
+        "description": "Shop Glamorous Lace Halter Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Glamorous Drop-Waist Corset Lace-Trim Mini Dress",
+        "price": 179,
+        "description": "Shop Glamorous Drop-Waist Corset Lace-Trim Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Glamorous Strapless V-Waist Cotton-Blend Mini Dress",
+        "price": 114,
+        "description": "Shop Glamorous Strapless V-Waist Cotton-Blend Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Daisy Street Buckle Strap Drop Waist Mini Dress",
+        "price": 64,
+        "description": "Shop Daisy Street Buckle Strap Drop Waist Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kiss The Sky Belle Tie-Back Corset Mini Dress",
+        "price": 79,
+        "description": "Shop Kiss The Sky Belle Tie-Back Corset Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Juliana Eyelet Strapless Mini Dress",
+        "price": 79,
+        "description": "Shop BDG Juliana Eyelet Strapless Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Glamorous O-Ring Cutout Open-Back Mini Dress",
+        "price": 109,
+        "description": "Shop Glamorous O-Ring Cutout Open-Back Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kimchi Blue Matilda Strapless Mini Dress",
+        "price": 89,
+        "description": "Shop Kimchi Blue Matilda Strapless Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "For Love & Lemons Danali Ruffle Mini Dress",
+        "price": 324,
+        "description": "Shop For Love & Lemons Danali Ruffle Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kimchi Blue Tessa Tiered Sweater Tank Mini Dress",
+        "price": 89,
+        "description": "Shop Kimchi Blue Tessa Tiered Sweater Tank Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Daisy Street Pinstripe Mockneck Tailored Mini Dress",
+        "price": 64,
+        "description": "Shop Daisy Street Pinstripe Mockneck Tailored Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Rare London Corset Halter Midi Dress",
+        "price": 164,
+        "description": "Shop Rare London Corset Halter Midi Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Bardot Delphi Hourglass Mini Dress",
+        "price": 194,
+        "description": "Shop Bardot Delphi Hourglass Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "UO Tashie Ribbed Knit Open Back Long Sleeve Mini Dress",
+        "price": 54,
+        "description": "Shop UO Tashie Ribbed Knit Open Back Long Sleeve Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "UO Pearl Semi-Sheer Mesh Cowl Neck Mini Dress",
+        "price": 79,
+        "description": "Shop UO Pearl Semi-Sheer Mesh Cowl Neck Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Kimchi Blue Cate Y-Neck Halter Mini Dress",
+        "price": 64,
+        "description": "Shop Kimchi Blue Cate Y-Neck Halter Mini Dress at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Hook ‘Em If Ya Got ‘Em Tote Bag",
+        "price": 34,
+        "description": "Shop Hook ‘Em If Ya Got ‘Em Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Waxed Canvas Tote Bag",
+        "price": 89,
+        "description": "Shop Waxed Canvas Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "I Touched Some Grass At Brown Tote Bag",
+        "price": 34,
+        "description": "Shop I Touched Some Grass At Brown Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "UGH Tote Bag",
+        "price": 34,
+        "description": "Shop UGH Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "I’m Forked Up Tote Bag",
+        "price": 34,
+        "description": "Shop I’m Forked Up Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "We Stan Tote Bag",
+        "price": 34,
+        "description": "Shop We Stan Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "NAH Tote Bag",
+        "price": 34,
+        "description": "Shop NAH Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Youse Don’t Even Go Here Tote Bag",
+        "price": 34,
+        "description": "Shop Youse Don’t Even Go Here Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Standard Cloth Nylon Shoulder Bag",
+        "price": 79,
+        "description": "Shop Standard Cloth Nylon Shoulder Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Logo Pocket Large Tote Bag",
+        "price": 59,
+        "description": "Shop BDG Logo Pocket Large Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Thread Realtree Edge Daily Tote Bag",
+        "price": 29,
+        "description": "Shop Thread Realtree Edge Daily Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "You Aren’t Tote Bag",
+        "price": 34,
+        "description": "Shop You Aren’t Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Cul De Sac Forever Tote Bag",
+        "price": 64,
+        "description": "Shop Cul De Sac Forever Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "YAWN Tote Bag",
+        "price": 34,
+        "description": "Shop YAWN Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Big Dawg Energy Tote Bag",
+        "price": 34,
+        "description": "Shop Big Dawg Energy Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "BDG Washed Faux Leather Tote Bag",
+        "price": 89,
+        "description": "Shop BDG Washed Faux Leather Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Art School Tote Bag",
+        "price": 34,
+        "description": "Shop Art School Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Buff Around & Find Out Tote Bag",
+        "price": 34,
+        "description": "Shop Buff Around & Find Out Tote Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Washed Faux Leather Crossbody Bag",
+        "price": 79,
+        "description": "Shop Washed Faux Leather Crossbody Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Classic Leather Messenger Bag",
+        "price": 129,
+        "description": "Shop Classic Leather Messenger Bag at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Mike Mini Canvas Crossbody Pouch",
+        "price": 44,
+        "description": "Shop Mike Mini Canvas Crossbody Pouch at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Steve Madden Brocks Tall Boot",
+        "price": 209,
+        "description": "Shop Steve Madden Brocks Tall Boot at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Steve Madden Tux Gold Sneaker",
+        "price": 129,
+        "description": "Shop Steve Madden Tux Gold Sneaker at Urban Outfitters today. We carry all the latest styles, colors and brands for you to choose from right here."
+      },
+      {
+        "name": "Bardot Delphi Hourglass Mini Dress",
+        "price": 149,
+        "description": "Bardot Delphi Hourglass Mini Dress"
+      },
+      {
+        "name": "Kimchi Blue Matilda Strapless Mini Dress",
+        "price": 69,
+        "description": "Kimchi Blue Matilda Strapless Mini Dress"
+      },
+      {
+        "name": "Kimchi Blue Marcella Embroidered Tie-Back Babydoll Mini Dress",
+        "price": 69,
+        "description": "Kimchi Blue Marcella Embroidered Tie-Back Babydoll Mini Dress"
+      },
+      {
+        "name": "BDG Juliana Eyelet Strapless Mini Dress",
+        "price": 59,
+        "description": "BDG Juliana Eyelet Strapless Mini Dress"
+      },
+      {
+        "name": "UO Hyacinth Lace Spliced Midi Dress",
+        "price": 99,
+        "description": "UO Hyacinth Lace Spliced Midi Dress"
+      },
+      {
+        "name": "UO Tashie Ribbed Knit Open Back Long Sleeve Mini Dress",
+        "price": 39,
+        "description": "UO Tashie Ribbed Knit Open Back Long Sleeve Mini Dress"
+      },
+      {
+        "name": "Kimchi Blue Beverly Halter Fit-And-Flare Mini Dress",
+        "price": 79,
+        "description": "Kimchi Blue Beverly Halter Fit-And-Flare Mini Dress"
+      },
+      {
+        "name": "Glamorous Black Satin Long Sleeve Wrap Mini Dress",
+        "price": 50,
+        "description": "Glamorous Black Satin Long Sleeve Wrap Mini Dress"
+      },
+      {
+        "name": "Kiss The Sky Camille Lace-Trim Satin Slip Mini Dress",
+        "price": 62,
+        "description": "Kiss The Sky Camille Lace-Trim Satin Slip Mini Dress"
+      },
+      {
+        "name": "Kiss The Sky Willow Lace Tie-Back Mini Dress",
+        "price": 70,
+        "description": "Kiss The Sky Willow Lace Tie-Back Mini Dress"
+      },
+      {
+        "name": "Glamorous Strapless V-Waist Cotton-Blend Mini Dress",
+        "price": 87,
+        "description": "Glamorous Strapless V-Waist Cotton-Blend Mini Dress"
+      },
+      {
+        "name": "Kiss The Sky Villa Tiered Drop Waist Corset Mini Dress",
+        "price": 75,
+        "description": "Kiss The Sky Villa Tiered Drop Waist Corset Mini Dress"
+      },
+      {
+        "name": "Motel Luth Velvet Floral Long Sleeve Mini Dress",
+        "price": 78,
+        "description": "Motel Luth Velvet Floral Long Sleeve Mini Dress"
+      },
+      {
+        "name": "Kimchi Blue Bianca Drop Waist Midi Dress",
+        "price": 69,
+        "description": "Kimchi Blue Bianca Drop Waist Midi Dress"
+      },
+      {
+        "name": "Glamorous Tomato Ruched Adjustable Tie Midi Dress",
+        "price": 50,
+        "description": "Glamorous Tomato Ruched Adjustable Tie Midi Dress"
+      },
+      {
+        "name": "UO Richmond Quilted Raw Hem Rugby Shirt",
+        "price": 49,
+        "description": "UO Richmond Quilted Raw Hem Rugby Shirt"
+      },
+      {
+        "name": "Tommy Jeans Relaxed Zip Polo Shirt",
+        "price": 100,
+        "description": "Tommy Jeans Relaxed Zip Polo Shirt"
+      },
+      {
+        "name": "Youngboy Nba X Vlone Top Tee",
+        "price": 80,
+        "description": "Youngboy Nba X Vlone Top Tee"
+      },
+      {
+        "name": "Converse Chuck Taylor All Star Leopard Pattern High Top Sneaker",
+        "price": 95,
         "description": ""
       },
       {
-        "name": "UO Deja Satin Cowl Neck Halter Cami",
-        "price": "CA$39.00",
+        "name": "Merrell Men's Agility Peak 5 Hiking Sneaker",
+        "price": 140,
         "description": ""
       },
       {
-        "name": "UO Maris Ruched Bubble Tube Top",
-        "price": "CA$34.00",
+        "name": "Converse Women's Chuck Taylor All Star High Top Sneaker",
+        "price": 65,
         "description": ""
       },
       {
-        "name": "BDG Grayson Solid Cutoff Muscle Tee",
-        "price": "CA$24.00",
+        "name": "Vans Men's Old Skool Sneaker",
+        "price": 70,
         "description": ""
       },
       {
-        "name": "Standard Cloth Stadium Nylon Windbreaker Jacket",
-        "price": "CA$99.00",
+        "name": "The North Face Glenclyffe Urban Low Shoe",
+        "price": 129,
         "description": ""
       },
       {
-        "name": "UO Dog Pattern Fleece Vest",
-        "price": "CA$99.00",
+        "name": "Converse Men's Chuck 70 Core High Top Sneaker",
+        "price": 90,
         "description": ""
       },
       {
-        "name": "iets frans… Franklin Windbreaker Jacket",
-        "price": "CA$114.00",
+        "name": "Converse Men's Run Star Trainer Sneaker",
+        "price": 90,
         "description": ""
       },
       {
-        "name": "BDG Faux Leather Zip Jacket",
-        "price": "CA$129.00",
+        "name": "Converse Men's One Star Pro AS Sneaker",
+        "price": 75,
         "description": ""
       },
       {
-        "name": "BDG Kasper Twill Work Jacket",
-        "price": "CA$99.00",
+        "name": "Saucony Men's Ride Millennium Low Top Sneaker",
+        "price": 100,
         "description": ""
       },
       {
-        "name": "Dickies Eisenhower Unlined Gas Jacket",
-        "price": "CA$99.00",
+        "name": "Saucony Men's 80 Running Sneaker",
+        "price": 90,
         "description": ""
       },
       {
-        "name": "CAT Nylon Utility Vest",
-        "price": "CA$99.00",
+        "name": "Keen Men's Jasper Suede Sneaker",
+        "price": 130,
         "description": ""
       },
       {
-        "name": "BDG Kasper Camo Work Jacket",
-        "price": "CA$99.00",
+        "name": "ASICS Men's GEL-NYC Sneaker",
+        "price": 130,
         "description": ""
       },
       {
-        "name": "Parks Project Forest Forager Quilted Jacket",
-        "price": "CA$229.00",
+        "name": "Saucony Men's Grid Jazz 9 Sneaker",
+        "price": 120,
         "description": ""
       },
       {
-        "name": "RAINS Long Contemporary Rain Jacket",
-        "price": "CA$164.00",
+        "name": "New Balance Men's 740 Athletic Sneaker",
+        "price": 110,
         "description": ""
       },
       {
-        "name": "UO Fountain Denim Pinstripe Jacket",
-        "price": "CA$114.00",
+        "name": "SAYE Modelo '89 Hi Vegan Sneakers",
+        "price": 169,
         "description": ""
       },
       {
-        "name": "Dickies Service Painter Jacket",
-        "price": "CA$104.00",
+        "name": "adidas Men's Barreda Decode Sneaker",
+        "price": 80,
         "description": ""
       },
       {
-        "name": "Dickies Eisenhower Tonal Jacquard Jacket",
-        "price": "CA$129.00",
+        "name": "Converse Women's Chuck 70 Glow-In-The-Dark Leopard Print Sneaker",
+        "price": 95,
         "description": ""
       },
       {
-        "name": "RAINS Waterproof Hooded Jacket",
-        "price": "CA$144.00",
+        "name": "New Balance Men's 550 Athletic Sneaker",
+        "price": 110,
+        "description": ""
+      },
+      {
+        "name": "New Balance Men's 725v1 Sneaker",
+        "price": 110,
+        "description": ""
+      },
+      {
+        "name": "ASICS Men's GT-2160 Sneaker",
+        "price": 120,
+        "description": ""
+      },
+      {
+        "name": "Standard Cloth Foundation Reverse Terry Hoodie Sweatshirt",
+        "price": 59,
+        "description": "Standard Cloth Foundation Reverse Terry Hoodie Sweatshirt"
+      },
+      {
+        "name": "Lake Tahoe Graphic Camo Hoodie Sweatshirt",
+        "price": 89,
+        "description": "Lake Tahoe Graphic Camo Hoodie Sweatshirt"
+      },
+      {
+        "name": "Standard Cloth Sleeveless Muscle Hoodie Sweatshirt",
+        "price": 54,
+        "description": "Standard Cloth Sleeveless Muscle Hoodie Sweatshirt"
+      },
+      {
+        "name": "BDG Bonfire Graphic Full Zip Hoodie Sweatshirt",
+        "price": 79,
+        "description": "BDG Bonfire Graphic Full Zip Hoodie Sweatshirt"
+      },
+      {
+        "name": "Fiore Di Roma Graphic Hoodie Sweatshirt",
+        "price": 79,
+        "description": "Fiore Di Roma Graphic Hoodie Sweatshirt"
+      },
+      {
+        "name": "WORSHIP SUPPLIES Messenger Graphic Hoodie Sweatshirt",
+        "price": 144,
+        "description": "WORSHIP SUPPLIES Messenger Graphic Hoodie Sweatshirt"
+      },
+      {
+        "name": "Parks Project Forest Forager Graphic Hoodie Sweatshirt",
+        "price": 104,
+        "description": "Parks Project Forest Forager Graphic Hoodie Sweatshirt"
+      },
+      {
+        "name": "OBEY Studios Palette Graphic Hoodie Sweatshirt",
+        "price": 114,
+        "description": "OBEY Studios Palette Graphic Hoodie Sweatshirt"
+      },
+      {
+        "name": "BDG Bonfire Solid Zip-Up Hoodie Sweatshirt",
+        "price": 79,
+        "description": "BDG Bonfire Solid Zip-Up Hoodie Sweatshirt"
+      },
+      {
+        "name": "Mitchell & Ness MLB Los Angeles Dodgers Logo Hoodie Sweatshirt",
+        "price": 154,
+        "description": "Mitchell & Ness MLB Los Angeles Dodgers Logo Hoodie Sweatshirt"
+      },
+      {
+        "name": "Techno Sucks Graphic Hoodie Sweatshirt",
+        "price": 79,
+        "description": "Techno Sucks Graphic Hoodie Sweatshirt"
+      },
+      {
+        "name": "Thanks A Bunch Hoodie Sweatshirt",
+        "price": 89,
+        "description": "Thanks A Bunch Hoodie Sweatshirt"
+      },
+      {
+        "name": "Dickies Plentywood Washed Hoodie Sweatshirt",
+        "price": 99,
+        "description": "Dickies Plentywood Washed Hoodie Sweatshirt"
+      },
+      {
+        "name": "Parks Project You Break It You Buy It Graphic Crew Neck Sweatshirt",
+        "price": 104,
+        "description": "Parks Project You Break It You Buy It Graphic Crew Neck Sweatshirt"
+      },
+      {
+        "name": "Michelin Tire Graphic Hoodie Sweatshirt",
+        "price": 89,
+        "description": "Michelin Tire Graphic Hoodie Sweatshirt"
+      },
+      {
+        "name": "Pro Standard MLB Philadelphia Phillies Ransom Hoodie Sweatshirt",
+        "price": 154,
+        "description": "Pro Standard MLB Philadelphia Phillies Ransom Hoodie Sweatshirt"
+      },
+      {
+        "name": "XLARGE Slanted OG Logo Graphic Hoodie Sweatshirt",
+        "price": 144,
+        "description": "XLARGE Slanted OG Logo Graphic Hoodie Sweatshirt"
+      },
+      {
+        "name": "BDG Perry Embroidered Cropped Raglan Short Sleeve Sweatshirt",
+        "price": 64,
+        "description": "BDG Perry Embroidered Cropped Raglan Short Sleeve Sweatshirt"
+      },
+      {
+        "name": "Hardcore Teddy Bear Graphic Hoodie Sweatshirt",
+        "price": 79,
+        "description": "Hardcore Teddy Bear Graphic Hoodie Sweatshirt"
+      },
+      {
+        "name": "Loser Machine No Mueras Embroidered Oversized Hoodie Sweatshirt",
+        "price": 144,
+        "description": "Loser Machine No Mueras Embroidered Oversized Hoodie Sweatshirt"
+      },
+      {
+        "name": "BAPE Mad Shark Tee",
+        "price": 130,
+        "description": ""
+      },
+      {
+        "name": "Lincoln University UO Exclusive Woven Jogger Sweatpant",
+        "price": 90,
+        "description": ""
+      },
+      {
+        "name": "GUESS ORIGINALS Soccer Jersey Tee",
+        "price": 59,
+        "description": ""
+      },
+      {
+        "name": "BDG Bandana Pattern Zip-Up Hoodie Sweatshirt",
+        "price": 79,
+        "description": ""
+      },
+      {
+        "name": "Nike Hoops World Champs Graphic Tee",
+        "price": 45,
+        "description": ""
+      },
+      {
+        "name": "The North Face Outdoor Graphic Crew Neck Sweatshirt",
+        "price": 85,
+        "description": ""
+      },
+      {
+        "name": "UO Summer Class ’22 Hampton University Tee",
+        "price": 30,
+        "description": ""
+      },
+      {
+        "name": "Spitfire Cut 114 Suglasses",
+        "price": 79,
+        "description": ""
+      },
+      {
+        "name": "Pro Standard Los Angeles Dodgers Long Sleeve Flannel Shirt",
+        "price": 99,
+        "description": ""
+      },
+      {
+        "name": "Concepts Sport Penn State University Woven Boxer Short",
+        "price": 25,
+        "description": ""
+      },
+      {
+        "name": "Students Golf Fitzroy Flannel Jacket",
+        "price": 140,
+        "description": ""
+      },
+      {
+        "name": "Alpha Industries Cotton Volley Short",
+        "price": 70,
+        "description": ""
+      },
+      {
+        "name": "UO Summer Class ’22 Urban Renewal Remade North Carolina A&T State University Jean",
+        "price": 140,
+        "description": ""
+      },
+      {
+        "name": "BLAIR + JACK Exfoliating Treatment",
+        "price": 27,
+        "description": ""
+      },
+      {
+        "name": "Meridian The Cooler Daily Soothing Spray",
+        "price": 18,
+        "description": ""
+      },
+      {
+        "name": "WORSHIP SUPPLIES Basement Graphic Tee",
+        "price": 45,
+        "description": ""
+      },
+      {
+        "name": "Ben Sherman Signature Cotton Pique Polo Shirt",
+        "price": 79,
+        "description": ""
+      },
+      {
+        "name": "OBEY Hardwork Straight Fit Jean",
+        "price": 99,
+        "description": ""
+      },
+      {
+        "name": "BAKBLADE DRYGLIDE® Replacement Blade Cartridge Set",
+        "price": 25,
         "description": ""
       },
       {
         "name": "Alpha Industries Track Jacket",
-        "price": "CA$194.00",
+        "price": 150,
         "description": ""
       },
       {
-        "name": "RAINS A-Line Longer Jacket",
-        "price": "CA$194.00",
+        "name": "KAVU Bay Beach Camp Shirt",
+        "price": 80,
         "description": ""
       },
       {
-        "name": "RAINS Banja Liner Bomber Jacket",
-        "price": "CA$194.00",
+        "name": "GUESS JEANS Zip Trucker Jacket",
+        "price": 168,
         "description": ""
       },
       {
-        "name": "RAINS A-Line Waterproof Rain Jacket",
-        "price": "CA$184.00",
+        "name": "UGG Men's Neumel Neumel High Weather Hybrid Lug Boot",
+        "price": 210,
         "description": ""
       },
       {
-        "name": "OBEY Icon Hardwork Zip-Up Denim Jacket",
-        "price": "CA$209.00",
+        "name": "OBEY Reducer Woven Short Sleeve Shirt",
+        "price": 80,
         "description": ""
       },
       {
-        "name": "Alpha Industries ALS/92 Liner Jacket",
-        "price": "CA$164.00",
+        "name": "Kuwalla Tee Stripe Short Sleeve Shirt",
+        "price": 90,
         "description": ""
       },
       {
-        "name": "The Critical Slide Society Mondo Jacket",
-        "price": "CA$114.00",
+        "name": "Puma BMW MMS Ess+ Woven Short",
+        "price": 55,
         "description": ""
       },
       {
-        "name": "XLARGE Velour Track Jacket",
-        "price": "CA$169.00",
+        "name": "Deus Ex Machina Specter Tools Short Sleeve Shirt",
+        "price": 98,
         "description": ""
       },
       {
-        "name": "RAINS Longer Waterproof Rain Jacket",
-        "price": "CA$184.00",
+        "name": "OBEY Big Timer Denim Utility Jean",
+        "price": 99,
         "description": ""
       },
       {
-        "name": "Alpha Industries L-2B Skymaster Gen II Jacket",
-        "price": "CA$234.00",
+        "name": "XLARGE Classic Graphic Print Raglan Long Sleeve Tee",
+        "price": 60,
         "description": ""
       },
       {
-        "name": "Alpha Industries Type 2 Denim Jacket",
-        "price": "CA$229.00",
+        "name": "Nutcare Smooth Nuts Men’s Moisturizer",
+        "price": 40,
         "description": ""
       },
       {
-        "name": "RAINS Banja Cropped Liner Vest",
-        "price": "CA$144.00",
+        "name": "Wrangler Go West Slogan Graphic Tee",
+        "price": 35,
         "description": ""
       },
       {
-        "name": "Wax London Otto Jacquard Overshirt",
-        "price": "CA$329.00",
+        "name": "The Critical Slide Society Morning Knit Crew Neck Sweater",
+        "price": 75,
         "description": ""
       },
       {
-        "name": "OBEY Stripe Zip-Up Jacket",
-        "price": "CA$184.00",
+        "name": "The Critical Slide Society All Day Corduroy Short",
+        "price": 65,
         "description": ""
       },
       {
-        "name": "OBEY Highland Pigment Dyed Jacket",
-        "price": "CA$239.00",
+        "name": "Wrangler Brushpopper Stripe Long Sleeve Shirt",
+        "price": 69,
         "description": ""
       },
       {
-        "name": "Alpha Industries L-2B Short Sleeve Bomber Jacket",
-        "price": "CA$234.00",
+        "name": "Prep U Exfoliating Charcoal Face & Body Scrub",
+        "price": 25,
         "description": ""
       },
       {
-        "name": "RAINS Suva Hardshell Anorak Jacket",
-        "price": "CA$339.00",
+        "name": "XLARGE Hangout Graphic Tee",
+        "price": 50,
         "description": ""
       },
       {
-        "name": "RAINS Kauto Vision Insulated Jacket",
-        "price": "CA$459.00",
+        "name": "Ware The Daily 3-In-1 Cleanser",
+        "price": 36,
         "description": ""
       },
       {
-        "name": "Dickies Lewistown Denim Shirt Jacket",
-        "price": "CA$99.00",
+        "name": "Pendleton Campfire Graphic Tee",
+        "price": 35,
         "description": ""
       },
       {
-        "name": "David Catalán Crivo Denim Jacket",
-        "price": "CA$369.00",
+        "name": "Frye Men's Engineer 12R Leather Boot",
+        "price": 498,
         "description": ""
       },
       {
-        "name": "CAT Waxed Chore Jacket",
-        "price": "CA$169.00",
+        "name": "Hermanos Koumori Post Running High Graphic Tee",
+        "price": 90,
         "description": ""
       },
       {
-        "name": "RAINS Banja Liner Coat",
-        "price": "CA$294.00",
+        "name": "Students Golf Howards Mesh Polo Shirt",
+        "price": 92,
         "description": ""
       },
       {
-        "name": "XLARGE OG Logo Varsity Jacket",
-        "price": "CA$339.00",
+        "name": "Manastash Chilliwack Pant",
+        "price": 170,
         "description": ""
       },
       {
-        "name": "FRIED RICE Paisley Jacquard Zip-Off Sleeve Jacket",
-        "price": "CA$479.00",
+        "name": "Fatboy Sea Salt Pomade",
+        "price": 21,
         "description": ""
       },
       {
-        "name": "Wax London Fen Suede Jacket",
-        "price": "CA$1,118.00",
+        "name": "Wax London Kurt Spin Pattern Jacquard Pant",
+        "price": 205,
         "description": ""
       },
       {
-        "name": "Monitaly X KARDO Khadi Illustrated Handspun Cotton Jacket",
-        "price": "CA$519.00",
+        "name": "GUESS ORIGINALS Vintage Patch Work Shirt",
+        "price": 98,
         "description": ""
       },
       {
-        "name": "OBEY CWU Denim Jacket",
-        "price": "CA$209.00",
+        "name": "NAH Tote Bag",
+        "price": 25,
         "description": ""
       },
       {
-        "name": "Klättermusen Lopt Zip Puffer Jacket",
-        "price": "CA$574.00",
+        "name": "The North Face Immersed Outdoors Half Dome Hoodie Sweatshirt",
+        "price": 60,
         "description": ""
       },
       {
-        "name": "OBEY Tilton Denim Work Jacket",
-        "price": "CA$184.00",
+        "name": "Cookman Fleece Chef Pant",
+        "price": 49,
         "description": ""
       },
       {
-        "name": "KARDO Bodhi Embroidered Floral Jacket",
-        "price": "CA$847.00",
+        "name": "Timberland Men's Field Boot",
+        "price": 160,
+        "description": ""
+      },
+      {
+        "name": "Baude Darkwave Utopia Body Lotion",
+        "price": 36,
+        "description": ""
+      },
+      {
+        "name": "XLARGE Los Angeles Graphic Allover Stripe Pattern Long Sleeve Tee",
+        "price": 65,
+        "description": ""
+      },
+      {
+        "name": "UO Summer Class ’22 Urban Renewal Remade Hampton University Jean",
+        "price": 125,
+        "description": ""
+      },
+      {
+        "name": "Peau De Loup X Tegan And Sara Foundation UO Exclusive Railroad Striped Carpenter Pant",
+        "price": 139,
+        "description": ""
+      },
+      {
+        "name": "Wax London Kurt Floral Jacquard Pant",
+        "price": 205,
+        "description": ""
+      },
+      {
+        "name": "Birkenstock Men's Uji Sandal",
+        "price": 150,
+        "description": ""
+      },
+      {
+        "name": "Golf Wang Eagles Cutout Graphic T-Shirt",
+        "price": 110,
+        "description": ""
+      },
+      {
+        "name": "WORSHIP SUPPLIES Get A Grip Short Sleeve Button-Down Shirt",
+        "price": 80,
+        "description": ""
+      },
+      {
+        "name": "Puma Neverworn T7 Track Pant",
+        "price": 125,
+        "description": ""
+      },
+      {
+        "name": "Pro Standard MLB New York Yankees Coach Jacket",
+        "price": 150,
+        "description": ""
+      },
+      {
+        "name": "Birds Of Condor Swing Kings Retro Reversible Bucket Hat",
+        "price": 55,
+        "description": ""
+      },
+      {
+        "name": "Wax London Siena Knit Polo Shirt",
+        "price": 205,
+        "description": ""
+      },
+      {
+        "name": "Students Golf The List Graphic Crew Neck Sweatshirt",
+        "price": 110,
+        "description": ""
+      },
+      {
+        "name": "Students Golf Kenway Polo Sweater",
+        "price": 120,
+        "description": ""
+      },
+      {
+        "name": "Abrand Bobby Striped Boxy Oxford Shirt",
+        "price": 68,
+        "description": ""
+      },
+      {
+        "name": "Deus Ex Machina Specter Quarter Zip Polo Sweatshirt",
+        "price": 128,
         "description": ""
       }
     ]
