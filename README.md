@@ -3,48 +3,29 @@
 WiPT is a smart price-tracking tool that helps users monitor wishlist items across multiple e-commerce platforms (Urban Outfitters, Uniqlo, etc.) and alerts them when prices drop.
 
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
 ## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
 ### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+Run these commands on your terminal
+```
+git clone https://github.com/sivabalansm/mchacks25
+cd mchacks25/src/scraper
+source ./setup.sh
+```
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
 ```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
+source ./venv/bin/activate
+python3 ./display.py
 ```
 
 ## Authors
 
-Contributors List & contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
+Olivia Song
+Sivabalan Muthurajan
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
-## Acknowledgments
