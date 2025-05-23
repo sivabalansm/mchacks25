@@ -20,11 +20,6 @@ source ./venv/bin/activate
 python3 ./display.py
 ```
 
-## Authors
-
-Olivia Song
-Sivabalan Muthurajan
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
